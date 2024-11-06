@@ -69,6 +69,9 @@ There are often openings for graduate students and postdoctoral fellows within t
 
 # Alumni
 
+Alumni from the lab have received prestigious awards (e.g., Knauss Marine Policy Fellowship, Fulbright Award), furthered their education in other graduate programs, and acquired jobs in government and non-profits. 
+
+
 {%
   include list.html
   data="members"
