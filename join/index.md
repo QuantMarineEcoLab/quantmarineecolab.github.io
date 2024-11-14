@@ -52,6 +52,8 @@ After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <
 
 ## Graduate students
 
+Interviews currently in progress for Fall 2025. I am unlikely to accept any additional applications. Feel free to reach out if you are interested in joining in a future year. 
+
 I will likely accept 1-2 students in 2025. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
