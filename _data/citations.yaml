@@ -179,22 +179,6 @@
   tags:
   - COVID-19
   - infectious diseases
-- id: 10.1101/2024.02.17.580847
-  title: Social-ecological models with social hierarchy and spatial structure applied
-    to small scale fisheries
-  authors:
-  - Sophie Wulfing
-  - Easton R. White
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-02-21'
-  link: https://doi.org/gtkf4t
-  image: https://quantmarineecolab.github.io/images/journal_covers/biorxiv_logo.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_WulfingWhite_biorxiv.pdf
-  tags:
-  - socio-ecological dynamics
-  - fisheries
 - id: 10.32942/X2CC97
   title: Refining the trophic diversity, ecological network structure, and bottom-up
     importance of prey groups for temperate reef fishes
