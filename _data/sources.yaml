@@ -4,6 +4,19 @@
 
 
 
+- id: 10.1007/s12080-024-00594-4
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_WulfingWhite_TheoEco.png
+  extra-links:
+    - type: pdf
+      link: pdfs/2024_WulfingWhite_TheoEco.pdf
+    - type: source
+      link: https://github.com/swulfing/SocEco
+      text: Code
+  tags:
+    - socio-ecological 
+    - mathematical model
+    - small-scale fisheries
+
 
 
 
