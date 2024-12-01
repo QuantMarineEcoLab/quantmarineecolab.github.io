@@ -1,5 +1,26 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1111/csp2.13249
+  title: Multidecadal underwater surveys reveal declines in marine turtles
+  authors:
+  - Julia Saltzman
+  - Alex R. Hearn
+  - Mariana M. P. B. Fuentes
+  - Todd Steiner
+  - Randall Arauz
+  - Catherine Macdonald
+  - Maike Heidemeyer
+  - Easton R. White
+  publisher: Conservation Science and Practice
+  date: '2024-10-15'
+  link: https://doi.org/g8snv7
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_Saltzman_etal_ConSciPrac.pdf
+  tags:
+  - marine megafauna
+  - turtles
 - id: 10.1007/s12080-024-00594-4
   title: Social-ecological models with social hierarchy and spatial structure applied
     to small-scale fisheries
