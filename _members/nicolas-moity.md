@@ -1,5 +1,5 @@
 ---
-name: Andrew (Drew) Villeneuve
+name: Nicolas Moity
 image: images/headshots/nicolas-moity.jpg
 description: PhD Student
 role: grad
