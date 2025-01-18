@@ -25,17 +25,6 @@ One of my main commitments as a faculty member is promoting and supporting diver
 
 
 
-## Lab opening - research scientist 
-
-The lab is currently hiring a masters or PhD level research scientist (which could be a postdoc if at the PhD level). The scientist will also work closely with the Jellison Lab at UNH. We are currently accepting applications for someone to start in at the end of 2024 or start of 2025 The scientist will help lead our oyster research program. The work involves using big data and sensors to understand how oysters are [affected by stressors in the lab and the field](https://quantmarineecolab.github.io/research/seafood/#shellfish-aquaculture).
-
-We are also considering hiring a someone at the MS or PhD level interested in small-scale fisheries and socio-ecological dynamics (see below in the postdoc section).
-
-Applicants that will be the most competitive for a position will have expertise using R and quantitative tools (e.g., mathematical modeling, statistics), mentoring, and project management. 
-
-After completing this [form](https://forms.gle/j9r2GEvEMHmgBSZQA), please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program. If you are at the postdoc level, you can read more below about postdocs in the lab (see below). 
-
-
 
 
 
@@ -54,7 +43,7 @@ After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <
 
 Interviews currently in progress for Fall 2025. I am unlikely to accept any additional applications. Feel free to reach out if you are interested in joining in a future year. 
 
-I will likely accept 1-2 students in 2025. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
+Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
 
@@ -86,16 +75,14 @@ The curriculum in the biology graduate programs is flexible. Graduate students w
 - ANFS 933: Design, Analysis, and Interpretation of Experiments
 
 
-Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
+Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
 
 
 
 
 ## Postdoctoral fellows
 
-In 2025, I may recruit for an additional postdoctoral fellow. The applicant would be expected to have a strong data science or mathematical background. There is a lot of flexibility for a postdoc to choose their own specific projects. Projects will revolve around small-scale and industrial fisheries questions, especially in relation to our [ongoing work in Madagascar](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923707&HistoricalAwards=false).  I will begin reviewing applications on Nov 25, 2024. The position start date is flexible, but January 2025 is ideal. Applicants must have a desire to mentor and promote an inclusive environment. If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
-
-
+We are not currently actively recruiting any postdocs. However, you can still put in a general inquiry below, especially if you are interested in co-developing a proposal.. 
 
 I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
 
