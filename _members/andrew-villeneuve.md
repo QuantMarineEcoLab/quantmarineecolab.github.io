@@ -1,7 +1,7 @@
 ---
 name: Andrew (Drew) Villeneuve
 image: images/headshots/andrew-villeneuve.jpg
-description: PhD Student
+description: PhD Candidate
 role: grad
 group: current
 aliases:

@@ -2,7 +2,7 @@
 name: Lara Santiago
 image: images/headshots/lara-santiago.png
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Researcher
 aliases: 
   - L. Santiago

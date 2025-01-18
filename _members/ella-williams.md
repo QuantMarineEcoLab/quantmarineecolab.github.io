@@ -2,7 +2,7 @@
 name: Ella Williams
 image: images/headshots/ella-williams.jpg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Researcher
 aliases: 
   - E. Williams

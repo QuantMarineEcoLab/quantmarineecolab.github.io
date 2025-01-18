@@ -1,5 +1,45 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1111/csp2.13249
+  title: Multidecadal underwater surveys reveal declines in marine turtles
+  authors:
+  - Julia Saltzman
+  - Alex R. Hearn
+  - Mariana M. P. B. Fuentes
+  - Todd Steiner
+  - Randall Arauz
+  - Catherine Macdonald
+  - Maike Heidemeyer
+  - Easton R. White
+  publisher: Conservation Science and Practice
+  date: '2024-10-15'
+  link: https://doi.org/g8snv7
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_Saltzman_etal_ConSciPrac.pdf
+  tags:
+  - marine megafauna
+  - turtles
+- id: 10.1007/s12080-024-00594-4
+  title: Social-ecological models with social hierarchy and spatial structure applied
+    to small-scale fisheries
+  authors:
+  - Sophie Wulfing
+  - Easton R. White
+  publisher: Theoretical Ecology
+  date: '2024-10-15'
+  link: https://doi.org/g8gzw5
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_WulfingWhite_TheoEco.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_WulfingWhite_TheoEco.pdf
+  - type: source
+    link: https://github.com/swulfing/SocEco
+    text: Code
+  tags:
+  - socio-ecological
+  - mathematical model
 - id: 10.1121/10.0028204
   title: The effect of localized disturbance on the acoustic behavior of the common
     tern (<i>Sterna hirundo</i>)
@@ -179,22 +219,6 @@
   tags:
   - COVID-19
   - infectious diseases
-- id: 10.1101/2024.02.17.580847
-  title: Social-ecological models with social hierarchy and spatial structure applied
-    to small scale fisheries
-  authors:
-  - Sophie Wulfing
-  - Easton R. White
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-02-21'
-  link: https://doi.org/gtkf4t
-  image: https://quantmarineecolab.github.io/images/journal_covers/biorxiv_logo.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_WulfingWhite_biorxiv.pdf
-  tags:
-  - socio-ecological dynamics
-  - fisheries
 - id: 10.32942/X2CC97
   title: Refining the trophic diversity, ecological network structure, and bottom-up
     importance of prey groups for temperate reef fishes
