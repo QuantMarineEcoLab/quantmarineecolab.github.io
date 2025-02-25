@@ -5,7 +5,7 @@ nav:
   tooltip: Join the team
 ---
 
-# <i class="fas join"></i>Join the Lab
+# <i class="fas join"></i>Join the Lab - No current positions available. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
 
