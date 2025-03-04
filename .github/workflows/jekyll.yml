@@ -30,33 +30,35 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1  # Changed from SHA to v1 for stability
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.0'  # More stable than 3.4.1
-          bundler-cache: true  # Runs 'bundle install' and caches installed gems automatically
-          cache-version: 0  # Increment this number if you need to re-download cached gems
+          ruby-version: '3.3.0'  # Using the latest stable version
+          bundler-cache: true  # Enables automatic caching of installed gems
+          cache-version: 1  # Increment this if you need to refresh the cache
+
+      - name: Ensure correct bundler platform
+        run: bundle lock --add-platform x86_64-linux
 
       - name: Install dependencies
-        run: bundle install  # Ensures all required gems are installed
+        run: bundle install
 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
 
       - name: Create .nojekyll file
-        run: touch _site/.nojekyll  # Prevents GitHub Pages from ignoring files starting with "_"
+        run: touch _site/.nojekyll
 
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
         with:
-          retention-days: 30  # Ensures artifacts are kept for 30 days
+          retention-days: 30  # Keeps artifacts for 30 days
+
 
   # Deployment job
   deploy:
