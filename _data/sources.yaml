@@ -1,3 +1,17 @@
+
+
+- id: 10.1002/ecs2.70193
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_ZarcoPerello_etal_Ecosphere.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2025_ZarcoPerello_etal_Ecosphere.pdf
+  tags:
+    - coral reefs
+    - biodiversity
+
+
+
+
 - id: 10.1111/csp2.13249
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
   extra-links:
