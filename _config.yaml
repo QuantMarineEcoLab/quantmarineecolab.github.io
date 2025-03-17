@@ -18,7 +18,7 @@ nav:
     tooltip: News and commentary
   - name: Handbook
     link: https://quantmarineecolab.github.io/lab-manual/
-    tooltip: Handbook and Join
+    tooltip: Handbook and Join Page
     external: true
   - link: contact
     tooltip: Email, address, and location
