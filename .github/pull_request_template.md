@@ -1,9 +1,13 @@
-<!-- 
+STOP!!!
 
-Read the Lab Website Template documentation BEFORE opening this pull request:
+You are about to open this pull request against THE TEMPLATE ITSELF. You probably meant to open it against your own website repo.
 
-https://github.com/greenelab/lab-website-template/wiki/Get-Started#edit-your-site
+---
 
-https://github.com/greenelab/lab-website-template/wiki/Basic-Editing
+FOR THE TEMPLATE MAINTAINER(S)
 
--->
+New template version checklist:
+
+- [ ] I have updated CITATION and CHANGELOG as appropriate.
+- [ ] I have updated lab-website-template-docs as appropriate.
+- [ ] I have checked the testbed as appropriate.
