@@ -9,36 +9,38 @@ nav:
 
 Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
 
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi, group: current"
+  filter="role == 'pi' and group == 'current'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: researcher, group: current"
+  filter="role == 'researcher' and group == 'current'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc, group: current"
+  filter="role == 'postdoc' and group == 'current'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: grad, group: current"
+  filter="role == 'grad' and group == 'current'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad, group: current"
+  filter="role == 'undergrad' and group == 'current'"
 %}
 {%
   include list.html
@@ -69,31 +71,31 @@ Alumni from the lab have received prestigious awards (e.g., Knauss Marine Policy
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi, group: alumni"
+  filter="role == 'pi' and group == 'alumni'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc, group: alumni"
+  filter="role == 'researcher' and group == 'alumni'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: grad, group: alumni"
+  filter="role == 'postdoc' and group == 'alumni'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: researcher, group: alumni"
+  filter="role == 'grad' and group == 'alumni'"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad, group: alumni"
+  filter="role == 'undergrad' and group == 'alumni'"
 %}
 {%
   include list.html
