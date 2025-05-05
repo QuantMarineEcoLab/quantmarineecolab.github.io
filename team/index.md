@@ -11,20 +11,17 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 
 ## Current Lab Members
 
-### Principal Investigator
-{% include list.html data="members" component="portrait" filter="role: pi & group: current" %}
+{% assign current_pis = site.data.members | where: "role", "pi" | where: "group", "current" %}
+{% for member in current_pis %}
+  {% include portrait.html member=member %}
+{% endfor %}
 
-### Researchers
-{% include list.html data="members" component="portrait" filter="role: researcher & group: current" %}
-
-### Postdocs
-{% include list.html data="members" component="portrait" filter="role: postdoc & group: current" %}
-
-### Graduate Students
-{% include list.html data="members" component="portrait" filter="role: grad & group: current" %}
-
-### Undergraduate Researchers
-{% include list.html data="members" component="portrait" filter="role: undergrad & group: current" %}
+{% assign current_members = site.data.members | where: "group", "current" %}
+{% for member in current_members %}
+  {% unless member.role == "pi" %}
+    {% include portrait.html member=member %}
+  {% endunless %}
+{% endfor %}
 
 {:.center}
 
@@ -38,17 +35,13 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 
 Alumni from the lab have received prestigious awards (e.g., Knauss Marine Policy Fellowship, Fulbright Award), furthered their education in other graduate programs, and acquired jobs in government and non-profits.
 
-### Alumni – Researchers
-{% include list.html data="members" component="portrait" filter="role: researcher & group: alumni" %}
 
-### Alumni – Postdocs
-{% include list.html data="members" component="portrait" filter="role: postdoc & group: alumni" %}
-
-### Alumni – Graduate Students
-{% include list.html data="members" component="portrait" filter="role: grad & group: alumni" %}
-
-### Alumni – Undergraduate Researchers
-{% include list.html data="members" component="portrait" filter="role: undergrad & group: alumni" %}
+{% assign alumni_members = site.data.members | where: "group", "alumni" %}
+{% for member in alumni_members %}
+  {% unless member.role == "pi" %}
+    {% include portrait.html member=member %}
+  {% endunless %}
+{% endfor %}
 
 {:.center}
 
