@@ -202,7 +202,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1002/ecs2.70193
+- id: doi:10.1002/ecs2.70193
   title: "Refining the trophic diversity, network structure, and bottom\u2010up importance\
     \ of prey groups for temperate reef fishes"
   authors:
@@ -224,7 +224,7 @@
   - biodiversity
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/csp2.13249
+- id: doi:10.1111/csp2.13249
   title: Multidecadal underwater surveys reveal declines in marine turtles
   authors:
   - Julia Saltzman
@@ -247,7 +247,7 @@
   - turtles
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s12080-024-00594-4
+- id: doi:10.1007/s12080-024-00594-4
   title: Social-ecological models with social hierarchy and spatial structure applied
     to small-scale fisheries
   authors:
@@ -268,7 +268,7 @@
   - mathematical model
   plugin: sources.py
   file: sources.yaml
-- id: 10.1121/10.0028204
+- id: doi:10.1121/10.0028204
   title: The effect of localized disturbance on the acoustic behavior of the common
     tern (<i>Sterna hirundo</i>)
   authors:
@@ -290,7 +290,7 @@
   - seabirds
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/jmammal/gyae083
+- id: doi:10.1093/jmammal/gyae083
   title: Fifty-year population trajectory in a marginal American Pika (<i>Ochotona
     princeps</i>) population
   authors:
@@ -310,7 +310,7 @@
   - climate change
   plugin: sources.py
   file: sources.yaml
-- id: 10.7717/peerj.17832
+- id: doi:10.7717/peerj.17832
   title: 'Lumpfish, <i>Cyclopterus lumpus</i>, distribution in the Gulf of Maine,
     USA: observations from fisheries independent and dependent catch data'
   authors:
@@ -336,7 +336,7 @@
   - climate change
   plugin: sources.py
   file: sources.yaml
-- id: 10.3390/su16146078
+- id: doi:10.3390/su16146078
   title: 'Socialscape Ecology: Integrating Social Features and Processes into Spatially
     Explicit Marine Conservation Planning'
   authors:
@@ -358,7 +358,7 @@
   - fisheries
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ecolmodel.2024.110786
+- id: doi:10.1016/j.ecolmodel.2024.110786
   title: Extreme events and coupled socio-ecological systems
   authors:
   - Easton R. White
@@ -383,7 +383,7 @@
   - heatwaves
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/1365-2656.14120
+- id: doi:10.1111/1365-2656.14120
   title: Predicting organismal response to marine heatwaves using dynamic thermal
     tolerance landscape models
   authors:
@@ -412,7 +412,7 @@
   - heatwaves
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.fishres.2024.107045
+- id: doi:10.1016/j.fishres.2024.107045
   title: Assessing the need for temporary fishing closures to support sustainability
     for a small-scale octopus fishery
   authors:
@@ -436,7 +436,7 @@
   - mathematical model
   plugin: sources.py
   file: sources.yaml
-- id: 10.1186/s44263-023-00028-z
+- id: doi:10.1186/s44263-023-00028-z
   title: The unintended consequences of inconsistent closure policies and mobility
     restrictions during epidemics
   authors:
@@ -463,7 +463,7 @@
   - infectious diseases
   plugin: sources.py
   file: sources.yaml
-- id: 10.32942/X2CC97
+- id: doi:10.32942/X2CC97
   title: Refining the trophic diversity, ecological network structure, and bottom-up
     importance of prey groups for temperate reef fishes
   authors:
@@ -485,7 +485,7 @@
   - monitoring
   plugin: sources.py
   file: sources.yaml
-- id: 10.32942/X2J60N
+- id: doi:10.32942/X2J60N
   title: Industrial fishing compliance with a new marine corridor near the Galapagos
     Islands
   authors:
@@ -510,7 +510,7 @@
   - seafood
   plugin: sources.py
   file: sources.yaml
-- id: 10.3354/meps14435
+- id: doi:10.3354/meps14435
   title: Determining the role of environmental covariates on planktivorous elasmobranch
     population trends within an isolated marine protected area
   authors:
@@ -530,7 +530,7 @@
   - species trends
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/biosci/biad015
+- id: doi:10.1093/biosci/biad015
   title: Challenges and opportunities to build quantitative self-confidence in biologists
   authors:
   - Kim Cuddington
@@ -564,7 +564,7 @@
   - mathematical biology
   plugin: sources.py
   file: sources.yaml
-- id: 10.1139/facets-2022-0079
+- id: doi:10.1139/facets-2022-0079
   title: If this title is funny, will you cite me? Citation impacts of humour and
     other features of article titles in ecology and evolution
   authors:
@@ -583,7 +583,7 @@
   - ecology
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fcosc.2022.987909
+- id: doi:10.3389/fcosc.2022.987909
   title: '#Sawfish: Social media to assess public perceptions, behaviors, and attitudes
     towards a critically endangered species'
   authors:
@@ -605,7 +605,7 @@
   - research methods
   plugin: sources.py
   file: sources.yaml
-- id: 10.1007/s10980-022-01473-1
+- id: doi:10.1007/s10980-022-01473-1
   title: Spatially explicit models predict coffee rust spread in fragmented landscapes
   authors:
   - Emily M. Beasley
@@ -625,7 +625,7 @@
   - disease
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.marpol.2022.105054
+- id: doi:10.1016/j.marpol.2022.105054
   title: A framework for mapping and monitoring human-ocean interactions in near real-time
     during COVID-19 and beyond
   authors:
@@ -677,7 +677,7 @@
   - socio-ecological
   plugin: sources.py
   file: sources.yaml
-- id: 10.7717/peerj.13007
+- id: doi:10.7717/peerj.13007
   title: The direct and indirect effects of a global pandemic on US fishers and seafood
     workers
   authors:
@@ -702,7 +702,7 @@
   - worker safety
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/csp2.611
+- id: doi:10.1111/csp2.611
   title: Detecting population trends for US marine mammals
   authors:
   - Easton R. White
@@ -723,7 +723,7 @@
   - marine mammals
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ocecoaman.2021.105925
+- id: doi:10.1016/j.ocecoaman.2021.105925
   title: 'Distant water industrial fishing in developing countries: A case study of
     Madagascar'
   authors:
@@ -751,7 +751,7 @@
   - marine protected areas
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.envsci.2021.06.007
+- id: doi:10.1016/j.envsci.2021.06.007
   title: 'Classed conservation: Socio-economic drivers of participation in marine
     resource management'
   authors:
@@ -772,7 +772,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/1365-2656.13560
+- id: doi:10.1111/1365-2656.13560
   title: "Effects of climate\u2010change\u2010driven gradual and acute temperature\
     \ changes on shark and ray species"
   authors:
@@ -794,7 +794,7 @@
   - climate change
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ecoinf.2021.101336
+- id: doi:10.1016/j.ecoinf.2021.101336
   title: 'The broken window: An algorithm for quantifying and characterizing misleading
     trajectories in ecological processes'
   authors:
@@ -815,7 +815,7 @@
   - time series
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fsufs.2021.614368
+- id: doi:10.3389/fsufs.2021.614368
   title: 'Alternative Seafood Networks During COVID-19: Implications for Resilience
     and Sustainability'
   authors:
@@ -850,7 +850,7 @@
   - fisheries
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/oik.07770
+- id: doi:10.1111/oik.07770
   title: Catastrophes, connectivity and Allee effects in the design of marine reserve
     networks
   authors:
@@ -874,7 +874,7 @@
   - spatial ecology
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.marpol.2020.104328
+- id: doi:10.1016/j.marpol.2020.104328
   title: Securing a sustainable future for US seafood in the wake of a global crisis
   authors:
   - Halley E. Froehlich
@@ -899,7 +899,7 @@
   - fisheries
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/faf.12525
+- id: doi:10.1111/faf.12525
   title: "Early effects of COVID\u201019 on US fisheries and seafood consumption"
   authors:
   - Easton R. White
@@ -927,7 +927,7 @@
   - fisheries
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ecolind.2020.107096
+- id: doi:10.1016/j.ecolind.2020.107096
   title: Sampling requirements and approaches to detect ecosystem shifts
   authors:
   - Rosalie Bruel
@@ -948,7 +948,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.3389/fevo.2020.572979
+- id: doi:10.3389/fevo.2020.572979
   title: Experimenting With the Past to Improve Environmental Monitoring
   authors:
   - Easton R. White
@@ -966,7 +966,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1371/journal.pone.0240648
+- id: doi:10.1371/journal.pone.0240648
   title: State-level variation of initial COVID-19 dynamics in the United States
   authors:
   - Easton R. White
@@ -986,7 +986,7 @@
   - public health
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.ecocom.2020.100867
+- id: doi:10.1016/j.ecocom.2020.100867
   title: 'Seasonality in ecology: Progress and prospects in theory'
   authors:
   - Easton R. White
@@ -1003,7 +1003,7 @@
   - population model
   plugin: sources.py
   file: sources.yaml
-- id: 10.1073/pnas.1911440116
+- id: doi:10.1073/pnas.1911440116
   title: Success and failure of ecological management is highly variable in an experimental
     test
   authors:
@@ -1027,7 +1027,7 @@
   - spatial ecology
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.biocon.2019.07.011
+- id: doi:10.1016/j.biocon.2019.07.011
   title: A low cost approach to estimate demographic rates using inverse modeling
   authors:
   - "Roberto C. Rodr\xEDguez-Caro"
@@ -1050,7 +1050,7 @@
   - population model
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/cobi.13371
+- id: doi:10.1111/cobi.13371
   title: "Site\u2010selection bias and apparent population declines in long\u2010\
     term studies"
   authors:
@@ -1072,7 +1072,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1093/biosci/biy144
+- id: doi:10.1093/biosci/biy144
   title: 'Minimum Time Required to Detect Population Trends: The Need for Long-Term
     Monitoring Programs'
   authors:
@@ -1092,7 +1092,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1002/ecy.2546
+- id: doi:10.1002/ecy.2546
   title: The role of spatial structure in the collapse of regional metapopulations
   authors:
   - Easton R. White
@@ -1113,7 +1113,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/cobi.12478
+- id: doi:10.1111/cobi.12478
   title: "Shifting elasmobranch community assemblage at Cocos Island\u2014an isolated\
     \ marine protected area"
   authors:
@@ -1137,7 +1137,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.1186/1745-6150-9-23
+- id: doi:10.1186/1745-6150-9-23
   title: Modeling the population dynamics of lemon sharks
   authors:
   - Easton R White
@@ -1159,7 +1159,7 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: 10.3354/meps10966
+- id: doi:10.3354/meps10966
   title: Predictable temperature-regulated residency, movement and migration in a
     large, highly mobile marine predator (Negaprion brevirostris)
   authors:
@@ -1183,7 +1183,7 @@
   - seasonality
   plugin: sources.py
   file: sources.yaml
-- id: 10.1016/j.marpol.2014.03.012
+- id: doi:10.1016/j.marpol.2014.03.012
   title: The limitations of diversity metrics in directing global marine conservation
   authors:
   - James P.W. Robinson
@@ -1204,7 +1204,7 @@
   - biodiversity
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/1365-2664.12177
+- id: doi:10.1111/1365-2664.12177
   title: "Two\u2010sex matrix models in assessing population viability: when do male\
     \ dynamics matter?"
   authors:
@@ -1222,7 +1222,7 @@
   - population model
   plugin: sources.py
   file: sources.yaml
-- id: 10.1111/acv.12051
+- id: doi:10.1111/acv.12051
   title: Comparing bycatch mitigation strategies for vulnerable marine megafauna
   authors:
   - J. Senko
