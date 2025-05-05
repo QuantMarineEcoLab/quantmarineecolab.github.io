@@ -50,16 +50,9 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 
 {% include section.html %}
 
-There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
 
-{%
-  include link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-  style="button"
-%}
-{:.center}
+
+
 
 ![2023 team photo](/images/2023_lab_retreat_team.jpg "2023 team photo")
 
