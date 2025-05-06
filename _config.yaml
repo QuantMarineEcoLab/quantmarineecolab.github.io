@@ -1,19 +1,21 @@
 # site properties and page defaults
-title: QuantMarineEcoLab
+title: Quantitative Marine Ecology Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: We turn environmental data into environmental insights. 
+header: images/background.png
+footer: images/background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@QuantMarineEcoLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: qmel.admin@unh.edu
+  orcid: 0000-0002-0768-9555
+  google-scholar: ImCoyF0AAAAJ&hl
   github: QuantMarineEcoLab
-  twitter: QuantMarineEcoLab
-  youtube: QuantMarineEcoLab
+  twitter: eastonrwhite
+  instagram: quantmarineecolab
+
+
 
 ### jekyll settings
 

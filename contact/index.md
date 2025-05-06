@@ -1,77 +1,57 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 7
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# <i class="fas fa-envelope"></i>Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire](https://www.unh.edu/). We are also affiliated with the [School of Marine Science and Ocean Engineering](https://marine.unh.edu/).
+We are located on the basement floor of Spaulding Hall.
 
 {%
-  include button.html
+  include link.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  icon=""
+  text="Easton.White@unh.edu"
+  tooltip=""
+  link="Easton.White@unh.edu"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  icon=""
+  text="(603) 862-4400"
+  tooltip=""
+  link="+1-603-862-4400"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="address"
+  icon=""
+  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249"
+  style="button"
 %}
+{:.center}
 
-{% include section.html %}
 
-{% capture col1 %}
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-{% endcapture %}
+Department of Biological Sciences  
+University of New Hampshire  
+Spaulding Hall  
+38 Academic Way  
+Durham, NH 03824  
+{:.center}
 
-{% capture col2 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
 
-{% endcapture %}
+Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html).
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
