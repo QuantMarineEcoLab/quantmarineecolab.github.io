@@ -11,33 +11,24 @@ Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu
 We are located on the basement floor of Spaulding Hall.
 
 {%
-  include link.html
+  include button.html
   type="email"
-  icon=""
   text="Easton.White@unh.edu"
-  tooltip=""
   link="Easton.White@unh.edu"
-  style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="phone"
-  icon=""
   text="(603) 862-4400"
-  tooltip=""
   link="+1-603-862-4400"
-  style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="address"
-  icon=""
-  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249"
-  style="button"
 %}
-{:.center}
+
 
 
 
