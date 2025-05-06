@@ -15,27 +15,7 @@ I view teaching as a highly scientific enterprise. I read literature on pedagogy
 {% include section.html %}
 
 
-{%
-  include gallery.html
 
-  image1="images/teaching/r_by_the_sea_hex.png"
-  link1="https://quantmarineecolab.github.io/r-by-the-sea/"
-  tooltip1="R by the Sea"
-
-  image2="images/teaching/r_by_the_sea_hex.png"
-  link2="https://quantmarineecolab.github.io/r-by-the-sea/"
-  tooltip2="R by the Sea"
-
-  image3="images/teaching/r_by_the_sea_hex.png"
-  link3="https://quantmarineecolab.github.io/r-by-the-sea/"
-  tooltip3="R by the Sea"
-
-  image4="images/teaching/r_by_the_sea_hex.png"
-  link4="https://quantmarineecolab.github.io/r-by-the-sea/"
-  tooltip4="R by the Sea"
-  
-
-%}
 
 
 {% include section.html %}
