@@ -6,6 +6,9 @@ nav:
 navbar:
   left:
     - text: "Handbook"
-      href: https://example.com/handbook
+      href: https://quantmarineecolab.github.io/lab-manual/
 ---
 
+<meta http-equiv="refresh" content="0; url=https://quantmarineecolab.github.io/lab-manual/" />
+
+If you are not redirected, [click here](https://quantmarineecolab.github.io/lab-manual/).
