@@ -2,7 +2,7 @@
 name: Jannine Chamorro 
 image: images/headshots/jannine-headshot.jpg
 role: postdoc
-group: alumni
+group: current
 description: Postdoctoral Scholar
 aliases:
   - J. Chamorro 
