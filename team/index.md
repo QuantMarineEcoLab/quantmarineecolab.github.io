@@ -9,6 +9,8 @@ nav:
 
 Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
 
+If you are interested in joining the lab, please [read through the process in our lab handbook](https://quantmarineecolab.github.io/lab-manual/04-recruitment.html). 
+
 ## Current Lab Members
 
 {% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alumni'" %}
