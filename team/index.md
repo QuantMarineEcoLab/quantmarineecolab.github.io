@@ -20,7 +20,7 @@ If you are interested in joining the lab, please [read through the process in ou
 
 {% include section.html %}
 
-![2023 team photo](/images/2023_lab_retreat_team.jpg "2023 team photo")
+![2023 team photo](/images/qmel_lab_2025.jpeg "2025 team photo")
 
 {% include section.html %}
 
@@ -43,15 +43,15 @@ Our work is made possible by funding from several organizations.
 
 {% capture content %}
 
-  [![](/images/NSF_Logo.png)](https://www.nsf.gov/)
-  [![](/images/Gund_logo.png)](https://www.uvm.edu/gund)
-  [![](/images/fulbright-logo.png)](https://cies.org/)
-  [![](/images/cdf_logo.png)](https://darwinfoundation.org/en//)
-  [![](/images/unh_logo.png)](https://www.unh.edu/)
-  [![](/images/nhsg-logo-blue.png)](https://seagrant.unh.edu/)
-  [![](/images/prep_horiz.png)](https://prepestuaries.org/who-we-are/about-prep/)
-  [![](/images/nhaes_logo.png)](https://colsa.unh.edu/new-hampshire-agricultural-experiment-station)
-  [![](/images/logos/USDA_logo.png)](https://www.usda.gov/)
+  [![](/images/NSF_Logo.png)](https://www.nsf.gov/){width=25%}
+  [![](/images/Gund_logo.png)](https://www.uvm.edu/gund){width=25%}
+  [![](/images/fulbright-logo.png)](https://cies.org/){width=25%}
+  [![](/images/cdf_logo.png)](https://darwinfoundation.org/en//){width=25%}
+  [![](/images/unh_logo.png)](https://www.unh.edu/){width=25%}
+  [![](/images/nhsg-logo-blue.png)](https://seagrant.unh.edu/){width=25%}
+  [![](/images/prep_horiz.png)](https://prepestuaries.org/who-we-are/about-prep/){width=25%}
+  [![](/images/nhaes_logo.png)](https://colsa.unh.edu/new-hampshire-agricultural-experiment-station){width=25%}
+  [![](/images/logos/USDA_logo.png)](https://www.usda.gov/){width=25%}
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
