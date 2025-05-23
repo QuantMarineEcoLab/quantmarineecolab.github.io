@@ -1,5 +1,17 @@
 
 
+
+- id: doi:10.32942/X2Z056
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2025_Spiecker_etal_EcoEvoRxiv.pdf
+  tags:
+    - monitoring
+    - estuaries
+
+
+
 - id: doi:10.1002/ecs2.70193
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_ZarcoPerello_etal_Ecosphere.jpg
   extra-links:

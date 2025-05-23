@@ -2,7 +2,7 @@
 name: Barbara Spiecker
 image: images/headshots/barbara-spiecker.jpg
 role: researcher
-group: current
+group: alumni
 description: Research Scientist
 aliases:
   - B Spiecker

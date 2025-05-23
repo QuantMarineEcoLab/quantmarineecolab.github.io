@@ -2,7 +2,7 @@
 name: Danielle Fradet 
 image: images/headshots/danielle-fradet.jpg
 role: grad
-group: current
+group: alumni
 description: Graduate student
 aliases:
   - D. Fradet 

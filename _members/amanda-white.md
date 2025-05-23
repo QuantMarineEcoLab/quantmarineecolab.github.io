@@ -2,7 +2,7 @@
 name: Amanda White
 image: images/headshots/amanda-white.jpeg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Researcher
 aliases: 
   - A. White

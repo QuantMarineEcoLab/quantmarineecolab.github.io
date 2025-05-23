@@ -2,7 +2,7 @@
 name: Josie DeMerit
 image: images/headshots/josie-demerit.jpg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Researcher
 aliases: 
   - J. DeMerit

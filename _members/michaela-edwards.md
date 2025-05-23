@@ -2,7 +2,7 @@
 name: Michaela Edwards
 image: images/headshots/michaela-edwards.jpeg
 role: grad
-group: current
+group: alumni
 description: Graduate student
 aliases:
   - M. Edwards
