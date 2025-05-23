@@ -3,7 +3,7 @@
 
 - id: doi:10.32942/X2Z056
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2025_Spiecker_etal_EcoEvoRxiv.pdf
   tags:
@@ -14,7 +14,7 @@
 
 - id: doi:10.1002/ecs2.70193
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_ZarcoPerello_etal_Ecosphere.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2025_ZarcoPerello_etal_Ecosphere.pdf
   tags:
@@ -26,7 +26,7 @@
 
 - id: doi:10.1111/csp2.13249
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_Saltzman_etal_ConSciPrac.pdf
   tags:
@@ -38,7 +38,7 @@
 
 - id: doi:10.1007/s12080-024-00594-4
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_WulfingWhite_TheoEco.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_WulfingWhite_TheoEco.pdf
     - type: source
@@ -55,7 +55,7 @@
 
 - id: doi:10.1121/10.0028204
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_Brosseau_etal_JASA.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_Brosseau_etal_JASA.pdf
   tags:
@@ -70,7 +70,7 @@
 
 - id: doi:10.1093/jmammal/gyae083
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_Smith_etal_Mammology.jpeg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_Smith_etal_Mammology.pdf
   tags:
@@ -84,7 +84,7 @@
 
 - id: doi:10.7717/peerj.17832
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_PeerJ.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_Fairchild_etal_PeerJ.pdf
     - type: source
@@ -100,7 +100,7 @@
 
 - id: doi:10.3390/su16146078
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_BakerMedard_etal_Sustainability.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_BakerMedard_etal_Sustainability.pdf
   tags:
@@ -116,7 +116,7 @@
 
 - id: doi:10.1016/j.ecolmodel.2024.110786
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_WhiteWulfing_EcoMod.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_WhiteWulfing_EcoMod.pdf
     - type: source
@@ -137,7 +137,7 @@
 
 - id: doi:10.1111/1365-2656.14120
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_VilleneuveWhite_JAnimEco.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_VilleneuveWhite_JAnimEco.pdf
     - type: source
@@ -160,7 +160,7 @@
 
 - id: doi:10.1016/j.fishres.2024.107045
   image: https://quantmarineecolab.github.io/images/journal_covers/2024_Wulfing_etal_FishRes.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2024_Wulfing_etal_FishRes.pdf
     - type: source
@@ -180,7 +180,7 @@
 
 - id: doi:10.1186/s44263-023-00028-z
   image: https://quantmarineecolab.github.io/images/journal_covers/2023_Althouse_etal_BMC.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_Althouse_etal_BMC.pdf
     - type: source
@@ -201,7 +201,7 @@
 
 - id: doi:10.32942/X2CC97
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
   tags:
@@ -216,7 +216,7 @@
 
 - id: doi:10.32942/X2J60N
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
   tags:
@@ -229,7 +229,7 @@
 
 - id: doi:10.3354/meps14435
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_SaltzmanWhite_MEPS.pdf
     - type: blog 
@@ -244,7 +244,7 @@
 
 - id: doi:10.1093/biosci/biad015
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_Cuddington_etal_BioScience.pdf
     - type: blog 
@@ -256,7 +256,7 @@
 
 - id: doi:10.1139/facets-2022-0079
   image: https://quantmarineecolab.github.io/images/journal_covers/2023_Heard_etal_Facets.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2023_Heard_etal_Facets.pdf
   tags:
@@ -269,7 +269,7 @@
 
 - id: doi:10.3389/fcosc.2022.987909
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_Saltzman_etal_FronConSci.pdf
   tags:
@@ -284,7 +284,7 @@
 
 - id: doi:10.1007/s10980-022-01473-1
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_Beasley_etal_LandEco.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_Beasley_etal_LandEco.pdf
   tags:
@@ -298,7 +298,7 @@
 
 - id: doi:10.1016/j.marpol.2022.105054
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_WardPaige_etal_MarPol.pdf
   tags:
@@ -311,7 +311,7 @@
 
 - id: doi:10.7717/peerj.13007
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_PeerJ.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_White_etal_PeerJ.pdf
     - type: blog 
@@ -327,7 +327,7 @@
 
 - id: doi:10.1111/csp2.611
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_White_etal_ConSciPrac.pdf
   tags:
@@ -340,7 +340,7 @@
 
 - id: doi:10.1016/j.ocecoaman.2021.105925
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_OCM.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2022_White_etal_OCM.pdf
     - type: source
@@ -360,7 +360,7 @@
     
 - id: doi:10.1016/j.envsci.2021.06.007
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_BakerMedard_etal_EnvSciPol.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2021_BakerMedard_etal_EnvSciPol.pdf
   tags:
@@ -374,7 +374,7 @@
 
 - id: doi:10.1111/1365-2656.13560
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
     - type: github
@@ -389,7 +389,7 @@
 
 - id: doi:10.1016/j.ecoinf.2021.101336
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2021_Bahlai_etal_EcoInformatics.pdf
   tags:
@@ -400,7 +400,7 @@
 
 - id: doi:10.3389/fsufs.2021.614368
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2021_Stoll_et_al_FrontSustFood.pdf
   tags:
@@ -413,7 +413,7 @@
 
 - id: doi:10.1111/oik.07770
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_Oikos.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_White_etal_Oikos.pdf
     - type: source
@@ -428,7 +428,7 @@
 
 - id: doi:10.1016/j.marpol.2020.104328
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_Froehlich_etal_MarPol.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_Froehlich_etal_MarPol.pdf
   tags:
@@ -441,7 +441,7 @@
 
 - id: doi:10.1111/faf.12525
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_FishFisheries.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_White_etal_FishFisheries.pdf
     - type: github
@@ -458,7 +458,7 @@
 
 - id: doi:10.1016/j.ecolind.2020.107096
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_BruelWhite_EcoInd.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_BruelWhite_EcoInd.pdf
     - type: source
@@ -473,7 +473,7 @@
 
 - id: doi:10.3389/fevo.2020.572979
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteBahlai_FronEcoEvo.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_WhiteBahlai_FronEcoEvo.pdf
   tags:
@@ -486,7 +486,7 @@
 
 - id: doi:10.1371/journal.pone.0240648
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHerbert-Dufresne_PLoSOne.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_WhiteHerbert-Dufresne_PLoSOne.pdf
     - type: source
@@ -501,7 +501,7 @@
 
 - id: doi:10.1016/j.ecocom.2020.100867
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHastings_EcoComp.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2020_WhiteHastings_EcoComp.pdf
   tags:
@@ -512,7 +512,7 @@
 
 - id: doi:10.1073/pnas.1911440116
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_etal_PNAS.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2019_White_etal_PNAS.pdf
     - type: source
@@ -527,7 +527,7 @@
 
 - id: doi:10.1016/j.biocon.2019.07.011
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_Rodriquez-Caro_BioCon.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2019_Rodriquez-Caro_BioCon.pdf
   tags:
@@ -538,7 +538,7 @@
 
 - id: doi:10.1111/cobi.13371
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_Fournier_etal_ConBio.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2019_Fournier_etal_ConBio.pdf
     - type: source
@@ -552,7 +552,7 @@
 
 - id: doi:10.1093/biosci/biy144
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2019_White_Bioscience.pdf
     - type: source
@@ -566,7 +566,7 @@
 
 - id: doi:10.1002/ecy.2546
   image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2018_WhiteSmith_Ecology.pdf
     - type: source
@@ -581,7 +581,7 @@
 
 - id: doi:10.1111/cobi.12478
   image: https://quantmarineecolab.github.io/images/journal_covers/2015_White_etal_ConBio.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2015_White_etal_ConBio.pdf
     - type: source
@@ -596,7 +596,7 @@
 
 - id: doi:10.1186/1745-6150-9-23
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_White_etal_BiologyDirect.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2014_White_etal_BiologyDirect.pdf
     - type: source
@@ -610,7 +610,7 @@
 
 - id: doi:10.3354/meps10966
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2014_Kessel_etal_MEPS.pdf
   tags:
@@ -622,7 +622,7 @@
 
 - id: doi:10.1016/j.marpol.2014.03.012
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2014_Robinson_etal_MarinePol.pdf
   tags:
@@ -634,7 +634,7 @@
 
 - id: doi:10.1111/1365-2664.12177
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_GerberWhite_JAppEco.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2014_GerberWhite_JAppEco.pdf
   tags:
@@ -645,7 +645,7 @@
 
 - id: doi:10.1111/acv.12051
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_Senko_et_al_AnimConserv.png
-  extra-links:
+  buttons:
     - type: pdf
       link: pdfs/2014_Senko_et_al_AnimConserv.pdf
   tags:
