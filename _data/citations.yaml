@@ -202,6 +202,26 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.32942/X2Z056
+  title: 'Minimum Sampling, Maximum Insight: Tracking Environmental Trends in a Tidal
+    Estuary'
+  authors:
+  - Barbara Spiecker
+  - Kalle Matso
+  - Christopher Whitney
+  - Easton R. White
+  publisher: ''
+  date: '2025-05-23'
+  link: https://doi.org/g9k5d8
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2025_Spiecker_etal_EcoEvoRxiv.pdf
+  tags:
+  - monitoring
+  - estuaries
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/ecs2.70193
   title: "Refining the trophic diversity, network structure, and bottom\u2010up importance\
     \ of prey groups for temperate reef fishes"
