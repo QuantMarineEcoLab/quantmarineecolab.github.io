@@ -1,207 +1,1362 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.32942/X2063T
+  title: Inter-specific relationships and their ecological role in an oceanic elasmobranch
+    community
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Miguel Gomez Garcia
+  - Remington Moll
+  - Alex Hearn
+  - Mario Espinoza
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2025-05-08'
+  link: https://doi.org/g9k5fj
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1002/ecs2.70193
+  title: "Refining the trophic diversity, network structure, and bottom\u2010up importance\
+    \ of prey groups for temperate reef fishes"
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - "S. Zarco\u2010Perello"
+  - S. Bennett
+  - J. Goetze
+  - T. H. Holmes
+  - "R. D. Stuart\u2010Smith"
+  - E. R. White
+  publisher: Ecosphere
+  date: '2025-02-01'
+  link: https://doi.org/g9hcp3
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_ZarcoPerello_etal_Ecosphere.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2025_ZarcoPerello_etal_Ecosphere.pdf
+  tags:
+  - coral reefs
+  - biodiversity
+- id: doi:10.1093/jmammal/gyae083
+  title: Fifty-year population trajectory in a marginal American Pika (<i>Ochotona
+    princeps</i>) population
+  authors:
+  - Andrew T Smith
+  - Constance I Millar
+  - Easton R White
+  publisher: Journal of Mammalogy
+  date: '2024-08-26'
+  link: https://doi.org/gwj725
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Smith_etal_Mammology.jpeg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_Smith_etal_Mammology.pdf
+  tags:
+  - pikas
+  - spatial ecology
+  - climate change
+- id: doi:10.1111/csp2.13249
+  title: Multidecadal underwater surveys reveal declines in marine turtles
+  authors:
+  - Julia Saltzman
+  - Alex R. Hearn
+  - Mariana M. P. B. Fuentes
+  - Todd Steiner
+  - Randall Arauz
+  - Catherine Macdonald
+  - Maike Heidemeyer
+  - Easton R. White
+  publisher: Conservation Science and Practice
+  date: '2024-10-15'
+  link: https://doi.org/g8snv7
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_Saltzman_etal_ConSciPrac.pdf
+  tags:
+  - marine megafauna
+  - turtles
+- id: doi:10.1016/j.ecolmodel.2024.110786
+  title: Extreme events and coupled socio-ecological systems
+  authors:
+  - Easton R. White
+  - Sophie Wulfing
+  publisher: Ecological Modelling
+  date: '2024-09-01'
+  link: https://doi.org/gt3rp5
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_WhiteWulfing_EcoMod.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_WhiteWulfing_EcoMod.pdf
+  - type: source
+    link: https://github.com/QuantMarineEcoLab/socio-eco-shocks
+    text: Code
+  - type: preprint
+    link: https://doi.org/10.32942/X29G7W
+    text: Preprint
+  tags:
+  - socio-ecological
+  - mechanistic model
+  - extreme events
+  - heatwaves
+- id: doi:10.1121/10.0028204
+  title: The effect of localized disturbance on the acoustic behavior of the common
+    tern (<i>Sterna hirundo</i>)
+  authors:
+  - J. E. Brosseau
+  - V. M. Eddington
+  - E. C. Craig
+  - E. R. White
+  - L. N. Kloepper
+  publisher: JASA Express Letters
+  date: '2024-08-01'
+  link: https://doi.org/gwj72v
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Brosseau_etal_JASA.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_Brosseau_etal_JASA.pdf
+  tags:
+  - disturbance
+  - acoustics
+  - seabirds
+- id: doi:10.3390/su16146078
+  title: 'Socialscape Ecology: Integrating Social Features and Processes into Spatially
+    Explicit Marine Conservation Planning'
+  authors:
+  - "Merrill Baker-M\xE9dard"
+  - Katherine Concannon
+  - Courtney Gantt
+  - Sierra Moen
+  - Easton R. White
+  publisher: Sustainability
+  date: '2024-07-16'
+  link: https://doi.org/gt43f9
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_BakerMedard_etal_Sustainability.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_BakerMedard_etal_Sustainability.pdf
+  tags:
+  - socio-ecological
+  - marine conservation
+  - fisheries
+- id: doi:10.1111/1365-2656.14120
+  title: Predicting organismal response to marine heatwaves using dynamic thermal
+    tolerance landscape models
+  authors:
+  - Andrew R. Villeneuve
+  - Easton R. White
+  publisher: Journal of Animal Ecology
+  date: '2024-06-08'
+  link: https://doi.org/gtxzmg
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_VilleneuveWhite_JAnimEco.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_VilleneuveWhite_JAnimEco.pdf
+  - type: source
+    link: https://doi.org/10.5061/dryad.8w9ghx3tx
+    text: Code
+  - type: preprint
+    link: https://ecoevorxiv.org/repository/view/6604/
+    text: Preprint
+  - type: blog
+    link: https://animalecologyinfocus.com/2024/06/12/an-organismal-crystal-ball-during-marine-heatwaves-predicting-death-across-heat-doses/
+  tags:
+  - shellfish
+  - climate change
+  - mechanistic model
+  - extreme events
+  - heatwaves
+- id: doi:10.32942/X25P7Q
+  title: 'Lumpfish, Cyclopterus lumpus, distribution in the Gulf of Maine, USA: observations
+    from fisheries independent and dependent catch data'
+  authors:
+  - Easton White
+  - Sophie Wulfing
+  - Elizabeth Fairchild
+  publisher: California Digital Library (CDL)
+  date: '2024-03-29'
+  link: https://doi.org/g9k5fk
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.17.580847
+  title: Social-ecological models with social hierarchy and spatial structure applied
+    to small scale fisheries
+  authors:
+  - Sophie Wulfing
+  - Easton R. White
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-21'
+  link: https://doi.org/gtkf4t
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.32942/X29W4W
+  title: Predicting organismal response to marine heatwaves using mechanistic thermal
+    landscape models
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Andrew Villeneuve
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2024-01-23'
+  link: https://doi.org/gtg9gs
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.32942/X29G7W
+  title: Extreme events and coupled socio-ecological systems
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Easton White
+  - Sophie Wulfing
+  publisher: California Digital Library (CDL)
+  date: '2023-11-20'
+  link: https://doi.org/gs52pj
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32942/X2CC97
+  title: Refining the trophic diversity, ecological network structure, and bottom-up
+    importance of prey groups for temperate reef fishes
+  authors:
+  - Salvador Zarco-Perello
+  - Scott Bennett
+  - Jordan Goetze
+  - Tom Holmes
+  - Rick Stuart-Smith
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2023-11-07'
+  link: https://doi.org/gs52ph
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
+  tags:
+  - ecological networks
+  - monitoring
+- id: doi:10.32942/X2J60N
+  title: Industrial fishing compliance with a new marine corridor near the Galapagos
+    Islands
+  authors:
+  - Easton White
+  - Alex Hearn
+  - Nicolas Moity
+  - "Jorge Ram\xEDrez-Gonz\xE1lez"
+  - Julia Saltzman
+  - "C\xE9sar Viteri-Mej\xEDa"
+  - Sarah Enright
+  - "Mar\xEDa Barrag\xE1n-Paladines"
+  publisher: California Digital Library (CDL)
+  date: '2023-10-30'
+  link: https://doi.org/gs52pk
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
+  tags:
+  - sharks and rays
+  - fisheries
+  - seafood
+- id: doi:10.1093/biosci/biad015
+  title: Challenges and opportunities to build quantitative self-confidence in biologists
+  authors:
+  - Kim Cuddington
+  - Karen C Abbott
+  - Frederick R Adler
+  - Mehmet Aydeniz
+  - Rene Dale
+  - Louis J Gross
+  - Alan Hastings
+  - Elizabeth A Hobson
+  - Vadim A Karatayev
+  - Alexander Killion
+  - Aasakiran Madamanchi
+  - Michelle L Marraffini
+  - Audrey L McCombs
+  - Widodo Samyono
+  - Shin-Han Shiu
+  - Karen H Watanabe
+  - Easton R White
+  publisher: BioScience
+  date: '2023-04-29'
+  link: https://doi.org/gr7df6
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Cuddington_etal_BioScience.pdf
+  - type: blog
+    link: https://www.unh.edu/unhtoday/2023/05/quantitative-confidence
+  tags:
+  - biology education
+  - mathematical biology
+- id: doi:10.1101/2023.04.28.537864
+  title: Assessing the need for temporary fishing closures to support sustainability
+    for a small-scale octopus fishery
+  authors:
+  - Sophie Wulfing
+  - Ahilya Sudarshan Kadba
+  - "Mez Baker-M\xE9dard"
+  - Easton R. White
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-04-29'
+  link: https://doi.org/g9k5fm
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1139/facets-2022-0079
+  title: If this title is funny, will you cite me? Citation impacts of humour and
+    other features of article titles in ecology and evolution
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+  - Stephen B. Heard
+  - Chloe A. Cull
+  - Easton R. White
+  publisher: FACETS
+  date: '2023-01-01'
+  link: https://doi.org/grsmcr
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Heard_etal_Facets.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Heard_etal_Facets.pdf
+  tags:
+  - science communication
+  - ecology
+- id: doi:10.1101/2022.09.28.509935
+  title: Determining the Role of Environmental Covariates on Planktivorous Elasmobranch
+    Population Trends within an Isolated Marine Protected Area
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Julia Saltzman
+  - Easton R. White
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-09-30'
+  link: https://doi.org/gs2bv7
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/s10980-022-01473-1
+  title: Spatially explicit models predict coffee rust spread in fragmented landscapes
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Emily M. Beasley
+  - "Natalia Aristiz\xE1bal"
+  - Erika M. Bueno
+  - Easton R. White
+  publisher: Landscape Ecology
+  date: '2022-06-30'
+  link: https://doi.org/gqfndq
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_Beasley_etal_LandEco.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_Beasley_etal_LandEco.pdf
+  tags:
+  - coffee
+  - spatial ecology
+  - disease
+- id: doi:10.7717/peerj.13007
+  title: The direct and indirect effects of a global pandemic on US fishers and seafood
+    workers
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - Easton R. White
+  - Jill Levine
+  - Amanda Moeser
+  - Julie Sorensen
+  publisher: PeerJ
+  date: '2022-03-21'
+  link: https://doi.org/gpqssb
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_PeerJ.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_PeerJ.pdf
+  - type: blog
+    link: https://www.unh.edu/unhtoday/news/release/2022/03/21/unh-research-us-seafood-workers-increased-risk-covid-19-during-pandemic
+  tags:
+  - COVID-19
+  - novel data streams
+  - fisheries
+  - seafood
+  - worker safety
+- id: doi:10.1111/csp2.611
+  title: Detecting population trends for US marine mammals
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Easton R. White
+  - Zachary Schakner
+  - Amber Bellamy
+  - Mridula Srinivasan
+  publisher: Conservation Science and Practice
+  date: '2022-01-05'
+  link: https://doi.org/gn2f7s
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_ConSciPrac.pdf
+  tags:
+  - conservation
+  - monitoring
+  - time series
+  - marine mammals
+- id: doi:10.1016/j.ocecoaman.2021.105925
+  title: 'Distant water industrial fishing in developing countries: A case study of
+    Madagascar'
+  authors:
+  - Easton R. White
+  - "Merrill Baker-M\xE9dard"
+  - Valeriia Vakhitova
+  - Samantha Farquhar
+  - Tendro Tondrasoa Ramaharitra
+  publisher: Ocean &amp; Coastal Management
+  date: '2022-02-01'
+  link: https://doi.org/gnmbt8
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_OCM.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_OCM.pdf
+  - type: source
+    link: https://github.com/eastonwhite/GFW-Madagascar
+    text: Code
+  - type: blog
+    link: https://quantmarineecolab.github.io/2021/12/15/madagascar-distant-fishing-paper.html
+  tags:
+  - Madagascar
+  - novel data streams
+  - fisheries
+  - marine protected areas
+- id: doi:10.3389/fcosc.2022.987909
+  title: '#Sawfish: Social media to assess public perceptions, behaviors, and attitudes
+    towards a critically endangered species'
+  authors:
+  - Julia Saltzman
+  - Jasmin Graham
+  - Julia Wester
+  - Easton R. White
+  - Catherine C. Macdonald
+  publisher: Frontiers in Conservation Science
+  date: '2022-09-16'
+  link: https://doi.org/gqtpxf
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_Saltzman_etal_FronConSci.pdf
+  tags:
+  - marine social science
+  - sawfish
+  - research methods
+- id: doi:10.1016/j.marpol.2022.105054
+  title: A framework for mapping and monitoring human-ocean interactions in near real-time
+    during COVID-19 and beyond
+  authors:
+  - CA Ward-Paige
+  - ER White
+  - EMP Madin
+  - GJ Osgood
+  - LK Bailes
+  - RL Bateman
+  - E. Belonje
+  - KV Burns
+  - N. Cullain
+  - P. Darbyshire-Jenkins
+  - R.S. de Waegh
+  - AM Eger
+  - L. Fola-Matthews
+  - BM Ford
+  - C. Gonson
+  - CJ Honeyman
+  - JE House
+  - E. Jacobs
+  - LK Jordan
+  - JJ Levenson
+  - K. Lucchini
+  - "P Mart\xED-Puig"
+  - LAH McGuire
+  - C. Meneses
+  - PH Montoya-Maya
+  - RA Noonan
+  - PA Ruiz-Ruiz
+  - PE Ruy
+  - RA Saputra
+  - G. Shedrawi
+  - B. Sing
+  - MD Tietbohl
+  - A. Twomey
+  - DC Vergara Florez
+  - L. Yamb
+  publisher: Marine Policy
+  date: '2022-06-01'
+  link: https://doi.org/gptn4x
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_WardPaige_etal_MarPol.pdf
+  tags:
+  - COVID-19
+  - novel data streams
+  - socio-ecological
+- id: doi:10.1101/2022.03.18.484880
+  title: If this title is funny, will you cite me? Citation impacts of humour and
+    other features of article titles in ecology and evolution
+  authors:
+  - Stephen B. Heard
+  - Chloe A. Cull
+  - Easton R. White
   publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2022-03-19'
+  link: https://doi.org/hpsf
+  orcid: 0000-0002-0768-9555
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2021.11.16.21266427
+  title: The Direct and Indirect Effects of a Global Pandemic on US Fishers and Seafood
+    Workers
+  authors:
+  - Easton White
+  - Jill Levine
+  - Amanda Moeser
+  - Julie Sorensen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-17'
+  link: https://doi.org/g9k5fn
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.13560
+  title: "Effects of climate\u2010change\u2010driven gradual and acute temperature\
+    \ changes on shark and ray species"
+  authors:
+  - Geoffrey J. Osgood
+  - Easton R. White
+  - Julia K. Baum
+  publisher: Journal of Animal Ecology
+  date: '2021-07-06'
+  link: https://doi.org/gkscmg
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
+  - type: github
+    link: baumlab/Osgood_etal_2021_JAE
+  tags:
+  - monitoring
+  - sharks and rays
+  - climate change
+- id: doi:10.1016/j.envsci.2021.06.007
+  title: 'Classed conservation: Socio-economic drivers of participation in marine
+    resource management'
+  authors:
+  - "Merrill Baker-M\xE9dard"
+  - Courtney Gantt
+  - Easton R. White
+  publisher: Environmental Science &amp; Policy
+  date: '2021-10-01'
+  link: https://doi.org/gksnbg
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_BakerMedard_etal_EnvSciPol.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_BakerMedard_etal_EnvSciPol.pdf
+  tags:
+  - socio-ecological
+  - marine protected areas
+  - Madagascar
+  - conservation
+- id: doi:10.1016/j.ecoinf.2021.101336
+  title: 'The broken window: An algorithm for quantifying and characterizing misleading
+    trajectories in ecological processes'
+  authors:
+  - Christie A. Bahlai
+  - Easton R. White
+  - Julia D. Perrone
+  - Sarah Cusser
+  - Kaitlin Stack Whitney
+  publisher: Ecological Informatics
+  date: '2021-09-01'
+  link: https://doi.org/gkdj53
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_Bahlai_etal_EcoInformatics.pdf
+  tags:
+  - monitoring
+  - time series
+- id: doi:10.1101/2021.05.13.444019
+  title: 'Distant water industrial fishing in developing countries: A case study of
+    Madagascar'
+  authors:
+  - Easton R. White
+  - "Merrill Baker-M\xE9dard"
+  - Valeriia Vakhitova
+  - Samantha Farquhar
+  - Tendro Tondrasoa Ramaharitra
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-15'
+  link: https://doi.org/g9k5fp
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31235/osf.io/m2kqa
+  title: 'Socialscape Ecology: Integrating social factors into spatially-explicit
+    marine conservation planning'
+  authors:
+  - "Merrill Baker-M\xE9dard"
+  - Katherine Concannon
+  - Courtney Gantt
+  - Sierra Moen
+  - Easton R White
+  publisher: Center for Open Science
+  date: '2021-03-25'
+  link: https://doi.org/g9k5fq
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/oik.07770
+  title: Catastrophes, connectivity and Allee effects in the design of marine reserve
+    networks
+  authors:
+  - Easton R. White
+  - Marissa L. Baskett
+  - Alan Hastings
+  publisher: Oikos
+  date: '2021-01-19'
+  link: https://doi.org/gjxmsk
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_Oikos.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_White_etal_Oikos.pdf
+  - type: source
+    link: https://github.com/eastonwhite/MPA-disturbances
+    text: Code
+  tags:
+  - monitoring
+  - marine protected areas
+  - fisheries
+  - spatial ecology
+- id: doi:10.1016/j.ecolind.2020.107096
+  title: Sampling requirements and approaches to detect ecosystem shifts
+  authors:
+  - Rosalie Bruel
+  - Easton R. White
+  publisher: Ecological Indicators
+  date: '2021-02-01'
+  link: https://doi.org/gjn263
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_BruelWhite_EcoInd.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_BruelWhite_EcoInd.pdf
+  - type: source
+    link: https://github.com/rosalieb/temporal-sampling
+    text: Code
+  tags:
+  - monitoring
+  - population model
+  - conservation
+- id: doi:10.3389/fevo.2020.572979
+  title: Experimenting With the Past to Improve Environmental Monitoring
+  authors:
+  - Easton R. White
+  - Christie A. Bahlai
+  publisher: Frontiers in Ecology and Evolution
+  date: '2021-01-20'
+  link: https://doi.org/gjxmsn
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteBahlai_FronEcoEvo.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_WhiteBahlai_FronEcoEvo.pdf
+  tags:
+  - monitoring
+  - population model
+  - conservation
+- id: doi:10.1111/faf.12525
+  title: "Early effects of COVID\u201019 on US fisheries and seafood consumption"
+  authors:
+  - Easton R. White
+  - Halley E. Froehlich
+  - Jessica A. Gephart
+  - Richard S. Cottrell
+  - Trevor A. Branch
+  - Rahul Agrawal Bejarano
+  - Julia K. Baum
+  publisher: Fish and Fisheries
+  date: '2020-11-23'
+  link: https://doi.org/gjnws2
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_FishFisheries.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_White_etal_FishFisheries.pdf
+  - type: github
+    link: eastonwhite/COVID19_US_Fisheries
+  - type: blog
+    link: https://quantmarineecolab.github.io/2020/11/15/seafood-and-covid-paper.html
+  tags:
+  - monitoring
+  - COVID-19
+  - seafood
+  - fisheries
+- id: doi:10.3389/fsufs.2021.614368
+  title: 'Alternative Seafood Networks During COVID-19: Implications for Resilience
+    and Sustainability'
+  authors:
+  - Joshua S. Stoll
+  - Hannah L. Harrison
+  - Emily De Sousa
+  - Debra Callaway
+  - Melissa Collier
+  - Kelly Harrell
+  - Buck Jones
+  - Jordyn Kastlunger
+  - Emma Kramer
+  - Steve Kurian
+  - M. Alan Lovewell
+  - Sonia Strobel
+  - Tracy Sylvester
+  - Brett Tolley
+  - Andrea Tomlinson
+  - Easton R. White
+  - Talia Young
+  - Philip A. Loring
+  publisher: Frontiers in Sustainable Food Systems
+  date: '2021-03-31'
+  link: https://doi.org/gjxmsj
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_Stoll_et_al_FrontSustFood.pdf
+  tags:
+  - COVID-19
+  - seafood
+  - fisheries
+- id: doi:10.1016/j.marpol.2020.104328
+  title: Securing a sustainable future for US seafood in the wake of a global crisis
+  authors:
+  - Halley E. Froehlich
+  - Rebecca R. Gentry
+  - Sarah E. Lester
+  - Richard S. Cottrell
+  - Gavin Fay
+  - Trevor A. Branch
+  - Jessica A. Gephart
+  - Easton R. White
+  - Julia K. Baum
+  publisher: Marine Policy
+  date: '2021-02-01'
+  link: https://doi.org/gjxmsm
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_Froehlich_etal_MarPol.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_Froehlich_etal_MarPol.pdf
+  tags:
+  - COVID-19
+  - seafood
+  - fisheries
+- id: doi:10.1101/2020.10.16.343194
+  title: 'The spore of the beans: Spatially explicit models predict coffee rust spread
+    in fragmented landscapes'
+  authors:
+  - E.M. Beasley
+  - "N. Aristiz\xE1bal"
+  - E. Bueno
+  - E.R. White
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-17'
+  link: https://doi.org/g9k5fr
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0240648
+  title: State-level variation of initial COVID-19 dynamics in the United States
+  authors:
+  - Easton R. White
+  - "Laurent H\xE9bert-Dufresne"
+  publisher: PLOS ONE
+  date: '2020-10-13'
+  link: https://doi.org/gjxmsp
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHerbert-Dufresne_PLoSOne.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_WhiteHerbert-Dufresne_PLoSOne.pdf
+  - type: source
+    link: https://github.com/eastonwhite/COVID19_US_States
+    text: Code
+  tags:
+  - COVID-19
+  - public health
+- id: doi:10.31219/osf.io/sxnu5
+  title: A framework for mapping and monitoring human-ocean interactions in near real-time
+    during COVID-19 and beyond
+  authors:
+  - CA Ward-Paige
+  - Easton R White
+  - EMP Madin
+  - GJ Osgood
+  - LK Bailes
+  - RL Bateman
+  - E Belonje
+  - KV Burns
+  - N Cullain
+  - P Darbyshire-Jenkins
+  - R S de Waegh
+  - Aaron Matthius Eger
+  - L Fola-Matthews
+  - BM Ford
+  - C Gonson
+  - CJ Honeyman
+  - JE House
+  - E Jacobs
+  - LK Jordan
+  - Jacob Levenson
+  - K Lucchini
+  - "P Mart\xED-Puig"
+  - LAH McGuire
+  - C Meneses
+  - PH Montoya-Maya
+  - RA Noonan
+  - PA Ruiz-Ruiz
+  - PE Ruy
+  - RA Saputra
+  - G Shedrawi
+  - B Sing
+  - ' Tietbohl'
+  - Alice J Twomey
+  - DC Vergara Florez
+  - L Yamb
+  publisher: Center for Open Science
+  date: '2020-08-28'
+  link: https://doi.org/g9k5fs
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.21.20179473
+  title: The unintended consequences of inconsistent pandemic control policies
+  authors:
+  - Benjamin M. Althouse
+  - Brendan Wallace
+  - Brendan Case
+  - Samuel V. Scarpino
+  - Andrew M. Berdahl
+  - Easton R. White
+  - "Laurent H\xE9bert-Dufresne"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-24'
+  link: https://doi.org/g9k5ft
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.07.07.192211
+  title: 'The Broken Window: An algorithm for quantifying and characterizing misleading
+    trajectories in ecological processes'
+  authors:
+  - Christie A. Bahlai
+  - Easton R. White
+  - Julia D. Perrone
+  - Sarah Cusser
+  - Kaitlin Stack Whitney
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-08'
+  link: https://doi.org/g4htsk
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/vcn2d
+  title: Securing a sustainable future for US seafood in the wake of a global crisis
+  authors:
+  - Halley E. Froehlich
+  - Rebecca Gentry
+  - Sarah E. Lester
+  - Richard S. Cottrell
+  - Gavin Fay
+  - Trevor A. Branch
+  - Jessica A. Gephart
+  - Easton R White
+  - Julia K. Baum
+  publisher: Center for Open Science
+  date: '2020-07-02'
+  link: https://doi.org/g9k5fv
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/9bxnh
+  title: Early effects of COVID-19 interventions on US fisheries and seafood
+  authors:
+  - Easton R White
+  - Halley E. Froehlich
+  - Jessica A. Gephart
+  - Richard S. Cottrell
+  - Trevor A. Branch
+  - Rahul Agrawal Bejarano
+  - Julia K. Baum
+  publisher: Center for Open Science
+  date: '2020-06-02'
+  link: https://doi.org/g9k5fw
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.14.20065318
+  title: 'State-level variation of initial COVID-19 dynamics in the United States:
+    The role of local government interventions'
+  authors:
+  - Easton R. White
+  - "Laurent H\xE9bert-Dufresne"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-17'
+  link: https://doi.org/gk69w4
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.04.07.030643
+  title: Sampling requirements and approaches to detect ecosystem shifts
+  authors:
+  - Rosalie Bruel
+  - Easton R. White
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-04-09'
+  link: https://doi.org/ggrj6k
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ecocom.2020.100867
+  title: 'Seasonality in ecology: Progress and prospects in theory'
+  authors:
+  - Easton R. White
+  - Alan Hastings
+  publisher: Ecological Complexity
+  date: '2020-12-01'
+  link: https://doi.org/gjxmsq
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHastings_EcoComp.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2020_WhiteHastings_EcoComp.pdf
+  tags:
+  - seasonality
+  - population model
+- id: doi:10.48550/arxiv.2008.09629
+  title: The unintended consequences of inconsistent pandemic control policies
+  authors:
+  - Benjamin M. Althouse
+  - Brendan Wallace
+  - Brendan Case
+  - Samuel V. Scarpino
+  - Andrew M. Berdahl
+  - Easton R. White
+  - Laurent Hebert-Dufresne
+  publisher: arXiv
+  date: '2020-01-01'
+  link: https://doi.org/g9k5fx
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/cobi.13371
+  title: "Site\u2010selection bias and apparent population declines in long\u2010\
+    term studies"
+  authors:
+  - Auriel M.V. Fournier
+  - Easton R. White
+  - Stephen B. Heard
+  publisher: Conservation Biology
+  date: '2019-07-03'
+  link: https://doi.org/ghddwg
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_Fournier_etal_ConBio.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2019_Fournier_etal_ConBio.pdf
+  - type: source
+    link: https://github.com/aurielfournier/negative_population_trends
+    text: Code
+  tags:
+  - monitoring
+  - conservation
+- id: doi:10.1073/pnas.1911440116
+  title: Success and failure of ecological management is highly variable in an experimental
+    test
+  authors:
+  - Easton R. White
+  - Kyle Cox
+  - Brett A. Melbourne
+  - Alan Hastings
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-10-28'
+  link: https://doi.org/ggc5kq
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_etal_PNAS.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2019_White_etal_PNAS.pdf
+  - type: source
+    link: https://github.com/eastonwhite/species-management-variability
+    text: Code
+  tags:
+  - beetles
+  - monitoring
+  - spatial ecology
+- id: doi:10.32942/OSF.IO/CZ5VA
+  title: Experimenting with the past to improve environmental monitoring programs
+  authors:
+  - Easton White
+  - Christie Bahlai
+  publisher: California Digital Library (CDL)
+  date: '2019-10-13'
+  link: https://doi.org/g9k5fz
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/750448
+  title: Catastrophes, connectivity, and Allee effects in the design of marine reserve
+    networks
+  authors:
+  - Easton R. White
+  - Marissa L. Baskett
+  - Alan Hastings
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-30'
+  link: https://doi.org/gkzz4q
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/biosci/biy144
+  title: 'Minimum Time Required to Detect Population Trends: The Need for Long-Term
+    Monitoring Programs'
+  authors:
+  - Easton R White
+  publisher: BioScience
+  date: '2018-12-05'
+  link: https://doi.org/ghpnz7
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2019_White_Bioscience.pdf
+  - type: source
+    link: https://github.com/eastonwhite/time-series-project
+    text: Code
+  tags:
+  - monitoring
+  - conservation
+- id: doi:10.1016/j.biocon.2019.07.011
+  title: A low cost approach to estimate demographic rates using inverse modeling
+  authors:
+  - "Roberto C. Rodr\xEDguez-Caro"
+  - Thorsten Wiegand
+  - Easton R. White
+  - Ana Sanz-Aguilar
+  - "Andr\xE9s Gim\xE9nez"
+  - "Eva Graci\xE1"
+  - Koen J. van Benthem
+  - "Jos\xE9 D. Anad\xF3n"
+  publisher: Biological Conservation
+  date: '2019-09-01'
+  link: https://doi.org/gjxmsr
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_Rodriquez-Caro_BioCon.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2019_Rodriquez-Caro_BioCon.pdf
+  tags:
+  - monitoring
+  - population model
+- id: doi:10.1002/ecy.2546
+  title: The role of spatial structure in the collapse of regional metapopulations
+  authors:
+  - Easton R. White
+  - Andrew T. Smith
+  publisher: Ecology
+  date: '2018-11-19'
+  link: https://doi.org/gfgp9f
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2018_WhiteSmith_Ecology.pdf
+  - type: source
+    link: https://github.com/eastonwhite/BodiePikaMetapop
+    text: Code
+  tags:
+  - pikas
+  - spatial ecology
+  - conservation
+- id: doi:10.1126/science.aau3978
+  title: Broad interests reap benefits for science
+  authors:
+  - Beth M. Adamowicz
+  - Derrick Ho Yan Chong
+  - "Christopher Guti\xE9rrez"
+  - Jess Matz
+  - Evrim Fer
+  - Emre Ozan Polat
+  - Harry MacKay
+  - Ruwansha Galagedara
+  - Alexandre Coste
+  - Justina Pupkaite
+  - Amir M. Farnoud
+  - Colin W. Murphy
+  - Easton R. White
+  - Iva Rezic
+  - Christine Hartzell
+  - Allison Matia
+  - Marcela Viviana Nicola
+  - Kyle J. Isaacson
+  - Mehrgol Tiv
+  - Aliyah M. Weinstein
+  - Sarah Ch'ng
+  - Melissa Sweeney
+  - Anna Lipkin
+  - Sayantan Chakraborty
+  - Edmond Sanganyado
+  - Sarah Marie Anderson
+  - Neilson Nguyen
+  - Triin Laisk
+  - Brett Favaro
+  publisher: Science
+  date: '2018-07-06'
+  link: https://doi.org/ghswtr
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aar7504
+  title: 'NextGen VOICES: Research resolutions'
+  authors:
+  - Felicia Olmeta-Schult
+  - Lauren Massa Segal
+  - Sam Tyner
+  - Twila Alexandra Moon
+  - Ryan Dz-Wei Chow
+  - Prosanta Chakrabarty
+  - Martin Pacesa
+  - Anna Igorevna Podgornaia
+  - Jennifer Chen
+  - Bipin Singh
+  - Bo Cao
+  - Rishi Raj Singh Sidhu
+  - Bryce W. Q. Tan
+  - Prashant Sood
+  - Stuart Parker
+  - Matthew A. Scult
+  - Desiree Van Haute
+  - Nikos Konstantinides
+  - Beat A. Schwendimann
+  - Sudhakar Srivastava
+  - Raffaele Fiorenza
+  - Ken Dutton-Regester
+  - Rachel Hale
+  - Emre Ozan Polat
+  - Edward Lau
+  - Audrey L. Mayer
+  - Easton R. White
+  publisher: Science
+  date: '2018-01-05'
+  link: https://doi.org/g9k5f2
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aaq1083
+  title: Promoting human rights through science
+  authors:
+  - Lauren Segal
+  - Ryan Dz-Wei Chow
+  - Brijesh Kumar
+  - Jenny Nguyen
+  - Kun-Hsing Yu
+  - Jennifer Chen
+  - Emre Ozan Polat
+  - Kaitlyn Elizabeth Porter
+  - Michelle Kelly-Irving
+  - Israel Bimpe
+  - Kristy A. Winter
+  - Runxi Zeng
+  - Majid Ahmed
+  - Dustin Ray Saalman
+  - Joshua Isaac James
+  - Michal Kosinski
+  - Easton R. White
+  - Fernanda S. Oda
+  - Hope Bretscher
+  - Perrine Hamel
+  - Swati Negi
+  - Ali Jawaid
+  publisher: Science
+  date: '2017-10-06'
+  link: https://doi.org/g9k5f3
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25807991
+  title: Shifting elasmobranch community assemblage at Cocos Island--an isolated marine
+    protected area.
+  authors:
+  - Easton R White
+  - Mark C Myers
+  - Joanna Mills Flemming
+  - Julia K Baum
+  publisher: 'Conservation biology : the journal of the Society for Conservation Biology'
+  date: '2015-03-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25807991
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3354/meps10966
+  title: Predictable temperature-regulated residency, movement and migration in a
+    large, highly mobile marine predator (Negaprion brevirostris)
+  authors:
+  - ST Kessel
+  - DD Chapman
+  - BR Franks
+  - T Gedamke
+  - SH Gruber
+  - JM Newman
+  - ER White
+  - RG Perkins
+  publisher: Marine Ecology Progress Series
+  date: '2014-11-06'
+  link: https://doi.org/f6r25f
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Kessel_etal_MEPS.pdf
+  tags:
+  - sharks and rays
+  - seasonality
+- id: doi:10.1016/j.marpol.2014.03.012
+  title: The limitations of diversity metrics in directing global marine conservation
+  authors:
+  - James P.W. Robinson
+  - Easton R. White
+  - Logan D. Wiwchar
+  - Danielle C. Claar
+  - Justin P. Suraci
+  - Julia K. Baum
+  publisher: Marine Policy
+  date: '2014-09-01'
+  link: https://doi.org/gjxmmp
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Robinson_etal_MarinePol.pdf
+  tags:
+  - conservation
+  - biodiversity
+- id: pmid:25403640
+  title: Modeling the population dynamics of lemon sharks.
+  authors:
+  - Easton R White
+  - John D Nagy
+  - Samuel H Gruber
+  publisher: Biology direct
+  date: '2014-11-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25403640
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/acv.12051
+  title: Comparing bycatch mitigation strategies for vulnerable marine megafauna
+  authors:
+  - J. Senko
+  - E. R. White
+  - S. S. Heppell
+  - L. R. Gerber
+  publisher: Animal Conservation
+  date: '2013-05-23'
+  link: https://doi.org/f5pv2x
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Senko_et_al_AnimConserv.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Senko_et_al_AnimConserv.pdf
+  tags:
+  - conservation
+  - fisheries
 - id: doi:10.32942/X2Z056
   title: 'Minimum Sampling, Maximum Insight: Tracking Environmental Trends in a Tidal
     Estuary'
@@ -220,51 +1375,6 @@
   tags:
   - monitoring
   - estuaries
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/ecs2.70193
-  title: "Refining the trophic diversity, network structure, and bottom\u2010up importance\
-    \ of prey groups for temperate reef fishes"
-  authors:
-  - "S. Zarco\u2010Perello"
-  - S. Bennett
-  - J. Goetze
-  - T. H. Holmes
-  - "R. D. Stuart\u2010Smith"
-  - E. R. White
-  publisher: Ecosphere
-  date: '2025-02-01'
-  link: https://doi.org/g9hcp3
-  image: https://quantmarineecolab.github.io/images/journal_covers/2025_ZarcoPerello_etal_Ecosphere.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2025_ZarcoPerello_etal_Ecosphere.pdf
-  tags:
-  - coral reefs
-  - biodiversity
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/csp2.13249
-  title: Multidecadal underwater surveys reveal declines in marine turtles
-  authors:
-  - Julia Saltzman
-  - Alex R. Hearn
-  - Mariana M. P. B. Fuentes
-  - Todd Steiner
-  - Randall Arauz
-  - Catherine Macdonald
-  - Maike Heidemeyer
-  - Easton R. White
-  publisher: Conservation Science and Practice
-  date: '2024-10-15'
-  link: https://doi.org/g8snv7
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_Saltzman_etal_ConSciPrac.pdf
-  tags:
-  - marine megafauna
-  - turtles
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s12080-024-00594-4
@@ -286,48 +1396,6 @@
   tags:
   - socio-ecological
   - mathematical model
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1121/10.0028204
-  title: The effect of localized disturbance on the acoustic behavior of the common
-    tern (<i>Sterna hirundo</i>)
-  authors:
-  - J. E. Brosseau
-  - V. M. Eddington
-  - E. C. Craig
-  - E. R. White
-  - L. N. Kloepper
-  publisher: JASA Express Letters
-  date: '2024-08-01'
-  link: https://doi.org/gwj72v
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Brosseau_etal_JASA.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_Brosseau_etal_JASA.pdf
-  tags:
-  - disturbance
-  - acoustics
-  - seabirds
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/jmammal/gyae083
-  title: Fifty-year population trajectory in a marginal American Pika (<i>Ochotona
-    princeps</i>) population
-  authors:
-  - Andrew T Smith
-  - Constance I Millar
-  - Easton R White
-  publisher: Journal of Mammalogy
-  date: '2024-08-26'
-  link: https://doi.org/gwj725
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Smith_etal_Mammology.jpeg
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_Smith_etal_Mammology.pdf
-  tags:
-  - pikas
-  - spatial ecology
-  - climate change
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7717/peerj.17832
@@ -354,82 +1422,6 @@
   - aquaculture
   - fisheries
   - climate change
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3390/su16146078
-  title: 'Socialscape Ecology: Integrating Social Features and Processes into Spatially
-    Explicit Marine Conservation Planning'
-  authors:
-  - "Merrill Baker-M\xE9dard"
-  - Katherine Concannon
-  - Courtney Gantt
-  - Sierra Moen
-  - Easton R. White
-  publisher: Sustainability
-  date: '2024-07-16'
-  link: https://doi.org/gt43f9
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_BakerMedard_etal_Sustainability.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_BakerMedard_etal_Sustainability.pdf
-  tags:
-  - socio-ecological
-  - marine conservation
-  - fisheries
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ecolmodel.2024.110786
-  title: Extreme events and coupled socio-ecological systems
-  authors:
-  - Easton R. White
-  - Sophie Wulfing
-  publisher: Ecological Modelling
-  date: '2024-09-01'
-  link: https://doi.org/gt3rp5
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_WhiteWulfing_EcoMod.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_WhiteWulfing_EcoMod.pdf
-  - type: source
-    link: https://github.com/QuantMarineEcoLab/socio-eco-shocks
-    text: Code
-  - type: preprint
-    link: https://doi.org/10.32942/X29G7W
-    text: Preprint
-  tags:
-  - socio-ecological
-  - mechanistic model
-  - extreme events
-  - heatwaves
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/1365-2656.14120
-  title: Predicting organismal response to marine heatwaves using dynamic thermal
-    tolerance landscape models
-  authors:
-  - Andrew R. Villeneuve
-  - Easton R. White
-  publisher: Journal of Animal Ecology
-  date: '2024-06-08'
-  link: https://doi.org/gtxzmg
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_VilleneuveWhite_JAnimEco.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2024_VilleneuveWhite_JAnimEco.pdf
-  - type: source
-    link: https://doi.org/10.5061/dryad.8w9ghx3tx
-    text: Code
-  - type: preprint
-    link: https://ecoevorxiv.org/repository/view/6604/
-    text: Preprint
-  - type: blog
-    link: https://animalecologyinfocus.com/2024/06/12/an-organismal-crystal-ball-during-marine-heatwaves-predicting-death-across-heat-doses/
-  tags:
-  - shellfish
-  - climate change
-  - mechanistic model
-  - extreme events
-  - heatwaves
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.fishres.2024.107045
@@ -483,53 +1475,6 @@
   - infectious diseases
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.32942/X2CC97
-  title: Refining the trophic diversity, ecological network structure, and bottom-up
-    importance of prey groups for temperate reef fishes
-  authors:
-  - Salvador Zarco-Perello
-  - Scott Bennett
-  - Jordan Goetze
-  - Tom Holmes
-  - Rick Stuart-Smith
-  - Easton White
-  publisher: California Digital Library (CDL)
-  date: '2023-11-07'
-  link: https://doi.org/gs52ph
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
-  tags:
-  - ecological networks
-  - monitoring
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.32942/X2J60N
-  title: Industrial fishing compliance with a new marine corridor near the Galapagos
-    Islands
-  authors:
-  - Easton White
-  - Alex Hearn
-  - Nicolas Moity
-  - "Jorge Ram\xEDrez-Gonz\xE1lez"
-  - Julia Saltzman
-  - "C\xE9sar Viteri-Mej\xEDa"
-  - Sarah Enright
-  - "Mar\xEDa Barrag\xE1n-Paladines"
-  publisher: California Digital Library (CDL)
-  date: '2023-10-30'
-  link: https://doi.org/gs52pk
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
-  tags:
-  - sharks and rays
-  - fisheries
-  - seafood
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3354/meps14435
   title: Determining the role of environmental covariates on planktivorous elasmobranch
     population trends within an isolated marine protected area
@@ -548,589 +1493,6 @@
   tags:
   - sharks and rays
   - species trends
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/biosci/biad015
-  title: Challenges and opportunities to build quantitative self-confidence in biologists
-  authors:
-  - Kim Cuddington
-  - Karen C Abbott
-  - Frederick R Adler
-  - Mehmet Aydeniz
-  - Rene Dale
-  - Louis J Gross
-  - Alan Hastings
-  - Elizabeth A Hobson
-  - Vadim A Karatayev
-  - Alexander Killion
-  - Aasakiran Madamanchi
-  - Michelle L Marraffini
-  - Audrey L McCombs
-  - Widodo Samyono
-  - Shin-Han Shiu
-  - Karen H Watanabe
-  - Easton R White
-  publisher: BioScience
-  date: '2023-04-29'
-  link: https://doi.org/gr7df6
-  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_Cuddington_etal_BioScience.pdf
-  - type: blog
-    link: https://www.unh.edu/unhtoday/2023/05/quantitative-confidence
-  tags:
-  - biology education
-  - mathematical biology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1139/facets-2022-0079
-  title: If this title is funny, will you cite me? Citation impacts of humour and
-    other features of article titles in ecology and evolution
-  authors:
-  - Stephen B. Heard
-  - Chloe A. Cull
-  - Easton R. White
-  publisher: FACETS
-  date: '2023-01-01'
-  link: https://doi.org/grsmcr
-  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Heard_etal_Facets.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_Heard_etal_Facets.pdf
-  tags:
-  - science communication
-  - ecology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fcosc.2022.987909
-  title: '#Sawfish: Social media to assess public perceptions, behaviors, and attitudes
-    towards a critically endangered species'
-  authors:
-  - Julia Saltzman
-  - Jasmin Graham
-  - Julia Wester
-  - Easton R. White
-  - Catherine C. Macdonald
-  publisher: Frontiers in Conservation Science
-  date: '2022-09-16'
-  link: https://doi.org/gqtpxf
-  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_Saltzman_etal_FronConSci.pdf
-  tags:
-  - marine social science
-  - sawfish
-  - research methods
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s10980-022-01473-1
-  title: Spatially explicit models predict coffee rust spread in fragmented landscapes
-  authors:
-  - Emily M. Beasley
-  - "Natalia Aristiz\xE1bal"
-  - Erika M. Bueno
-  - Easton R. White
-  publisher: Landscape Ecology
-  date: '2022-06-30'
-  link: https://doi.org/gqfndq
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_Beasley_etal_LandEco.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_Beasley_etal_LandEco.pdf
-  tags:
-  - coffee
-  - spatial ecology
-  - disease
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.marpol.2022.105054
-  title: A framework for mapping and monitoring human-ocean interactions in near real-time
-    during COVID-19 and beyond
-  authors:
-  - CA Ward-Paige
-  - ER White
-  - EMP Madin
-  - GJ Osgood
-  - LK Bailes
-  - RL Bateman
-  - E. Belonje
-  - KV Burns
-  - N. Cullain
-  - P. Darbyshire-Jenkins
-  - R.S. de Waegh
-  - AM Eger
-  - L. Fola-Matthews
-  - BM Ford
-  - C. Gonson
-  - CJ Honeyman
-  - JE House
-  - E. Jacobs
-  - LK Jordan
-  - JJ Levenson
-  - K. Lucchini
-  - "P Mart\xED-Puig"
-  - LAH McGuire
-  - C. Meneses
-  - PH Montoya-Maya
-  - RA Noonan
-  - PA Ruiz-Ruiz
-  - PE Ruy
-  - RA Saputra
-  - G. Shedrawi
-  - B. Sing
-  - MD Tietbohl
-  - A. Twomey
-  - DC Vergara Florez
-  - L. Yamb
-  publisher: Marine Policy
-  date: '2022-06-01'
-  link: https://doi.org/gptn4x
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_WardPaige_etal_MarPol.pdf
-  tags:
-  - COVID-19
-  - novel data streams
-  - socio-ecological
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7717/peerj.13007
-  title: The direct and indirect effects of a global pandemic on US fishers and seafood
-    workers
-  authors:
-  - Easton R. White
-  - Jill Levine
-  - Amanda Moeser
-  - Julie Sorensen
-  publisher: PeerJ
-  date: '2022-03-21'
-  link: https://doi.org/gpqssb
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_PeerJ.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_White_etal_PeerJ.pdf
-  - type: blog
-    link: https://www.unh.edu/unhtoday/news/release/2022/03/21/unh-research-us-seafood-workers-increased-risk-covid-19-during-pandemic
-  tags:
-  - COVID-19
-  - novel data streams
-  - fisheries
-  - seafood
-  - worker safety
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/csp2.611
-  title: Detecting population trends for US marine mammals
-  authors:
-  - Easton R. White
-  - Zachary Schakner
-  - Amber Bellamy
-  - Mridula Srinivasan
-  publisher: Conservation Science and Practice
-  date: '2022-01-05'
-  link: https://doi.org/gn2f7s
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_White_etal_ConSciPrac.pdf
-  tags:
-  - conservation
-  - monitoring
-  - time series
-  - marine mammals
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ocecoaman.2021.105925
-  title: 'Distant water industrial fishing in developing countries: A case study of
-    Madagascar'
-  authors:
-  - Easton R. White
-  - "Merrill Baker-M\xE9dard"
-  - Valeriia Vakhitova
-  - Samantha Farquhar
-  - Tendro Tondrasoa Ramaharitra
-  publisher: Ocean &amp; Coastal Management
-  date: '2022-02-01'
-  link: https://doi.org/gnmbt8
-  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_OCM.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_White_etal_OCM.pdf
-  - type: source
-    link: https://github.com/eastonwhite/GFW-Madagascar
-    text: Code
-  - type: blog
-    link: https://quantmarineecolab.github.io/2021/12/15/madagascar-distant-fishing-paper.html
-  tags:
-  - Madagascar
-  - novel data streams
-  - fisheries
-  - marine protected areas
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.envsci.2021.06.007
-  title: 'Classed conservation: Socio-economic drivers of participation in marine
-    resource management'
-  authors:
-  - "Merrill Baker-M\xE9dard"
-  - Courtney Gantt
-  - Easton R. White
-  publisher: Environmental Science &amp; Policy
-  date: '2021-10-01'
-  link: https://doi.org/gksnbg
-  image: https://quantmarineecolab.github.io/images/journal_covers/2021_BakerMedard_etal_EnvSciPol.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2021_BakerMedard_etal_EnvSciPol.pdf
-  tags:
-  - socio-ecological
-  - marine protected areas
-  - Madagascar
-  - conservation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/1365-2656.13560
-  title: "Effects of climate\u2010change\u2010driven gradual and acute temperature\
-    \ changes on shark and ray species"
-  authors:
-  - Geoffrey J. Osgood
-  - Easton R. White
-  - Julia K. Baum
-  publisher: Journal of Animal Ecology
-  date: '2021-07-06'
-  link: https://doi.org/gkscmg
-  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
-  - type: github
-    link: baumlab/Osgood_etal_2021_JAE
-  tags:
-  - monitoring
-  - sharks and rays
-  - climate change
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ecoinf.2021.101336
-  title: 'The broken window: An algorithm for quantifying and characterizing misleading
-    trajectories in ecological processes'
-  authors:
-  - Christie A. Bahlai
-  - Easton R. White
-  - Julia D. Perrone
-  - Sarah Cusser
-  - Kaitlin Stack Whitney
-  publisher: Ecological Informatics
-  date: '2021-09-01'
-  link: https://doi.org/gkdj53
-  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2021_Bahlai_etal_EcoInformatics.pdf
-  tags:
-  - monitoring
-  - time series
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fsufs.2021.614368
-  title: 'Alternative Seafood Networks During COVID-19: Implications for Resilience
-    and Sustainability'
-  authors:
-  - Joshua S. Stoll
-  - Hannah L. Harrison
-  - Emily De Sousa
-  - Debra Callaway
-  - Melissa Collier
-  - Kelly Harrell
-  - Buck Jones
-  - Jordyn Kastlunger
-  - Emma Kramer
-  - Steve Kurian
-  - M. Alan Lovewell
-  - Sonia Strobel
-  - Tracy Sylvester
-  - Brett Tolley
-  - Andrea Tomlinson
-  - Easton R. White
-  - Talia Young
-  - Philip A. Loring
-  publisher: Frontiers in Sustainable Food Systems
-  date: '2021-03-31'
-  link: https://doi.org/gjxmsj
-  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2021_Stoll_et_al_FrontSustFood.pdf
-  tags:
-  - COVID-19
-  - seafood
-  - fisheries
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/oik.07770
-  title: Catastrophes, connectivity and Allee effects in the design of marine reserve
-    networks
-  authors:
-  - Easton R. White
-  - Marissa L. Baskett
-  - Alan Hastings
-  publisher: Oikos
-  date: '2021-01-19'
-  link: https://doi.org/gjxmsk
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_Oikos.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_White_etal_Oikos.pdf
-  - type: source
-    link: https://github.com/eastonwhite/MPA-disturbances
-    text: Code
-  tags:
-  - monitoring
-  - marine protected areas
-  - fisheries
-  - spatial ecology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.marpol.2020.104328
-  title: Securing a sustainable future for US seafood in the wake of a global crisis
-  authors:
-  - Halley E. Froehlich
-  - Rebecca R. Gentry
-  - Sarah E. Lester
-  - Richard S. Cottrell
-  - Gavin Fay
-  - Trevor A. Branch
-  - Jessica A. Gephart
-  - Easton R. White
-  - Julia K. Baum
-  publisher: Marine Policy
-  date: '2021-02-01'
-  link: https://doi.org/gjxmsm
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_Froehlich_etal_MarPol.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_Froehlich_etal_MarPol.pdf
-  tags:
-  - COVID-19
-  - seafood
-  - fisheries
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/faf.12525
-  title: "Early effects of COVID\u201019 on US fisheries and seafood consumption"
-  authors:
-  - Easton R. White
-  - Halley E. Froehlich
-  - Jessica A. Gephart
-  - Richard S. Cottrell
-  - Trevor A. Branch
-  - Rahul Agrawal Bejarano
-  - Julia K. Baum
-  publisher: Fish and Fisheries
-  date: '2020-11-23'
-  link: https://doi.org/gjnws2
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_FishFisheries.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_White_etal_FishFisheries.pdf
-  - type: github
-    link: eastonwhite/COVID19_US_Fisheries
-  - type: blog
-    link: https://quantmarineecolab.github.io/2020/11/15/seafood-and-covid-paper.html
-  tags:
-  - monitoring
-  - COVID-19
-  - seafood
-  - fisheries
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ecolind.2020.107096
-  title: Sampling requirements and approaches to detect ecosystem shifts
-  authors:
-  - Rosalie Bruel
-  - Easton R. White
-  publisher: Ecological Indicators
-  date: '2021-02-01'
-  link: https://doi.org/gjn263
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_BruelWhite_EcoInd.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_BruelWhite_EcoInd.pdf
-  - type: source
-    link: https://github.com/rosalieb/temporal-sampling
-    text: Code
-  tags:
-  - monitoring
-  - population model
-  - conservation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fevo.2020.572979
-  title: Experimenting With the Past to Improve Environmental Monitoring
-  authors:
-  - Easton R. White
-  - Christie A. Bahlai
-  publisher: Frontiers in Ecology and Evolution
-  date: '2021-01-20'
-  link: https://doi.org/gjxmsn
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteBahlai_FronEcoEvo.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_WhiteBahlai_FronEcoEvo.pdf
-  tags:
-  - monitoring
-  - population model
-  - conservation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0240648
-  title: State-level variation of initial COVID-19 dynamics in the United States
-  authors:
-  - Easton R. White
-  - "Laurent H\xE9bert-Dufresne"
-  publisher: PLOS ONE
-  date: '2020-10-13'
-  link: https://doi.org/gjxmsp
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHerbert-Dufresne_PLoSOne.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_WhiteHerbert-Dufresne_PLoSOne.pdf
-  - type: source
-    link: https://github.com/eastonwhite/COVID19_US_States
-    text: Code
-  tags:
-  - COVID-19
-  - public health
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.ecocom.2020.100867
-  title: 'Seasonality in ecology: Progress and prospects in theory'
-  authors:
-  - Easton R. White
-  - Alan Hastings
-  publisher: Ecological Complexity
-  date: '2020-12-01'
-  link: https://doi.org/gjxmsq
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteHastings_EcoComp.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2020_WhiteHastings_EcoComp.pdf
-  tags:
-  - seasonality
-  - population model
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1073/pnas.1911440116
-  title: Success and failure of ecological management is highly variable in an experimental
-    test
-  authors:
-  - Easton R. White
-  - Kyle Cox
-  - Brett A. Melbourne
-  - Alan Hastings
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2019-10-28'
-  link: https://doi.org/ggc5kq
-  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_etal_PNAS.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2019_White_etal_PNAS.pdf
-  - type: source
-    link: https://github.com/eastonwhite/species-management-variability
-    text: Code
-  tags:
-  - beetles
-  - monitoring
-  - spatial ecology
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.biocon.2019.07.011
-  title: A low cost approach to estimate demographic rates using inverse modeling
-  authors:
-  - "Roberto C. Rodr\xEDguez-Caro"
-  - Thorsten Wiegand
-  - Easton R. White
-  - Ana Sanz-Aguilar
-  - "Andr\xE9s Gim\xE9nez"
-  - "Eva Graci\xE1"
-  - Koen J. van Benthem
-  - "Jos\xE9 D. Anad\xF3n"
-  publisher: Biological Conservation
-  date: '2019-09-01'
-  link: https://doi.org/gjxmsr
-  image: https://quantmarineecolab.github.io/images/journal_covers/2019_Rodriquez-Caro_BioCon.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2019_Rodriquez-Caro_BioCon.pdf
-  tags:
-  - monitoring
-  - population model
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/cobi.13371
-  title: "Site\u2010selection bias and apparent population declines in long\u2010\
-    term studies"
-  authors:
-  - Auriel M.V. Fournier
-  - Easton R. White
-  - Stephen B. Heard
-  publisher: Conservation Biology
-  date: '2019-07-03'
-  link: https://doi.org/ghddwg
-  image: https://quantmarineecolab.github.io/images/journal_covers/2019_Fournier_etal_ConBio.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2019_Fournier_etal_ConBio.pdf
-  - type: source
-    link: https://github.com/aurielfournier/negative_population_trends
-    text: Code
-  tags:
-  - monitoring
-  - conservation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1093/biosci/biy144
-  title: 'Minimum Time Required to Detect Population Trends: The Need for Long-Term
-    Monitoring Programs'
-  authors:
-  - Easton R White
-  publisher: BioScience
-  date: '2018-12-05'
-  link: https://doi.org/ghpnz7
-  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2019_White_Bioscience.pdf
-  - type: source
-    link: https://github.com/eastonwhite/time-series-project
-    text: Code
-  tags:
-  - monitoring
-  - conservation
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/ecy.2546
-  title: The role of spatial structure in the collapse of regional metapopulations
-  authors:
-  - Easton R. White
-  - Andrew T. Smith
-  publisher: Ecology
-  date: '2018-11-19'
-  link: https://doi.org/gfgp9f
-  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2018_WhiteSmith_Ecology.pdf
-  - type: source
-    link: https://github.com/eastonwhite/BodiePikaMetapop
-    text: Code
-  tags:
-  - pikas
-  - spatial ecology
-  - conservation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/cobi.12478
@@ -1179,51 +1541,6 @@
   - conservation
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3354/meps10966
-  title: Predictable temperature-regulated residency, movement and migration in a
-    large, highly mobile marine predator (Negaprion brevirostris)
-  authors:
-  - ST Kessel
-  - DD Chapman
-  - BR Franks
-  - T Gedamke
-  - SH Gruber
-  - JM Newman
-  - ER White
-  - RG Perkins
-  publisher: Marine Ecology Progress Series
-  date: '2014-11-06'
-  link: https://doi.org/f6r25f
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2014_Kessel_etal_MEPS.pdf
-  tags:
-  - sharks and rays
-  - seasonality
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.marpol.2014.03.012
-  title: The limitations of diversity metrics in directing global marine conservation
-  authors:
-  - James P.W. Robinson
-  - Easton R. White
-  - Logan D. Wiwchar
-  - Danielle C. Claar
-  - Justin P. Suraci
-  - Julia K. Baum
-  publisher: Marine Policy
-  date: '2014-09-01'
-  link: https://doi.org/gjxmmp
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2014_Robinson_etal_MarinePol.pdf
-  tags:
-  - conservation
-  - biodiversity
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1111/1365-2664.12177
   title: "Two\u2010sex matrix models in assessing population viability: when do male\
     \ dynamics matter?"
@@ -1240,24 +1557,5 @@
   tags:
   - conservation
   - population model
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/acv.12051
-  title: Comparing bycatch mitigation strategies for vulnerable marine megafauna
-  authors:
-  - J. Senko
-  - E. R. White
-  - S. S. Heppell
-  - L. R. Gerber
-  publisher: Animal Conservation
-  date: '2013-05-23'
-  link: https://doi.org/f5pv2x
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Senko_et_al_AnimConserv.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2014_Senko_et_al_AnimConserv.pdf
-  tags:
-  - conservation
-  - fisheries
   plugin: sources.py
   file: sources.yaml
