@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1121/10.0036887
+  title: Designing a BirdNET classifier for high wind detection in passive acoustic
+    recordings to support wildlife monitoring
+  authors:
+  - Danielle T. Fradet
+  - Megan A. Cimino
+  - Easton R. White
+  - Laura N. Kloepper
+  publisher: The Journal of the Acoustical Society of America
+  date: '2025-06-01'
+  link: https://doi.org/g9q3hd
+  orcid: 0000-0002-0768-9555
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.32942/X2Z056
   title: 'Minimum Sampling, Maximum Insight: Tracking Environmental Trends in a Tidal
     Estuary'
