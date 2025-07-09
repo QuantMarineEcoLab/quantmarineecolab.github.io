@@ -22,11 +22,11 @@ links:
 Miguel de Jesús Gómez García nació en Guadalajara, Jalisco, México. Es un biólogo marino y analista de datos interesado en el uso de herramientas computacionales para la conservación y manejo de especies marinas en peligro. 
 
 Se graduó de la Licenciatura en Biología Marina en el CUCSUR de la Universidad de Guadalajara, e hizo su Maestría en Manejo y Conservación de Recursos Marinos en el CIBNOR, La Paz. Antes de unirse al laboratorio, Miguel realizó varios voluntariados con organizaciones no gubernamentales en México, entre las que destacan <a href="https://research.mantatrust.org/jesus-gomez-garcia-et-al-2021" target="_blank">Manta trust</a> y <a href="https://www.pelagioskakunja.org/miguel-gomez" target="_blank">Pelagios Kakunjá</a>. Sus experiencias lo llevaron a finalizar su maestría en 2020 con una
-<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.639772/full"target="_blank">tesis</a> acerca de los patrones de comportamiento de la manta gigante, <i>Mobula birostris</i>, y sus interacciones con buzos. Posteriormente, Miguel ejerció como administrador y analista de datos en Pelagios Kakunjá, una ONG de conservación marina en el Pacífico Oriental tropical. Actualmente, Miguel es un becario Fulbright y busca expandir sus habilidades en ecología cuantitativa mediante sus estudios de Doctorado en UNH y el Laboratorio de Ecología Cuantitativa Marina (QMEL).
+<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2021.639772/full" target="_blank">tesis</a> acerca de los patrones de comportamiento de la manta gigante, <i>Mobula birostris</i>, y sus interacciones con buzos. Posteriormente, Miguel ejerció como administrador y analista de datos en Pelagios Kakunjá, una ONG de conservación marina en el Pacífico Oriental tropical. Actualmente, Miguel es un becario Fulbright y busca expandir sus habilidades en ecología cuantitativa mediante sus estudios de Doctorado en UNH y el Laboratorio de Ecología Cuantitativa Marina (QMEL).
 
 Sus intereses fuera de la ciencia incluyen el buceo con esnórquel y SCUBA, las películas, la animación, los videojuegos y los juegos de mesa. 
 
-Sigue las ocurrencias científicas de Miguel en <a href="https://www.researchgate.net/profile/Miguel-Gomez-Garcia-2/research"target="_blank">Research Gate</a> y <a href="https://github.com/Miguelbirostris"target="_blank">GitHub</a>
+Sigue las ocurrencias científicas de Miguel en <a href="https://www.researchgate.net/profile/Miguel-Gomez-Garcia-2/research" target="_blank">Research Gate</a> y <a href="https://github.com/Miguelbirostris" target="_blank">GitHub</a>
 
 
   </p>
