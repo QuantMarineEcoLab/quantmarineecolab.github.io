@@ -14,7 +14,7 @@ links:
   bluesky: villesci
   github: villesci
   google-scholar: BJlkwh0AAAAJ&hl
-  website: [villesci.github.io](https://villesci.github.io)
+  website: https://villesci.github.io
 ---
 
 Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist working across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental, and extreme event data into models of population dynamics under climate change. Current projects include modeling how heat stress accumulates in the eastern Oyster during tidal cycles, describing intertidal microhabitat patterns, and modeling survival of long-term heatwaves on Mediterranean coral species. 
