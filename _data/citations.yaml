@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/1365-2656.14120
+  title: Predicting organismal response to marine heatwaves using dynamic thermal
+    tolerance landscape models
+  authors:
+  - Andrew R. Villeneuve
+  - Easton R. White
+  publisher: Journal of Animal Ecology
+  date: '2024-06-08'
+  link: https://doi.org/gtxzmg
+  orcid: 0000-0002-0768-9555
+  plugin: sources.py
+  file: sources.yaml
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_VilleneuveWhite_JAnimEco.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2024_VilleneuveWhite_JAnimEco.pdf
+  - type: source
+    link: https://doi.org/10.5061/dryad.8w9ghx3tx
+    text: Code
+  - type: preprint
+    link: https://ecoevorxiv.org/repository/view/6604/
+    text: Preprint
+  - type: blog
+    link: https://animalecologyinfocus.com/2024/06/12/an-organismal-crystal-ball-during-marine-heatwaves-predicting-death-across-heat-doses/
+  tags:
+  - shellfish
+  - climate change
+  - mechanistic model
+  - extreme events
+  - heatwaves
 - id: doi:10.1121/10.0036887
   title: Designing a BirdNET classifier for high wind detection in passive acoustic
     recordings to support wildlife monitoring
@@ -190,36 +220,6 @@
   - socio-ecological
   - marine conservation
   - fisheries
-- id: doi:10.1111/1365-2656.14120
-  title: Predicting organismal response to marine heatwaves using dynamic thermal
-    tolerance landscape models
-  authors:
-  - Andrew R. Villeneuve
-  - Easton R. White
-  publisher: Journal of Animal Ecology
-  date: '2024-06-08'
-  link: https://doi.org/gtxzmg
-  orcid: 0000-0002-0768-9555
-  plugin: sources.py
-  file: sources.yaml
-  image: https://quantmarineecolab.github.io/images/journal_covers/2024_VilleneuveWhite_JAnimEco.jpg
-  buttons:
-  - type: pdf
-    link: pdfs/2024_VilleneuveWhite_JAnimEco.pdf
-  - type: source
-    link: https://doi.org/10.5061/dryad.8w9ghx3tx
-    text: Code
-  - type: preprint
-    link: https://ecoevorxiv.org/repository/view/6604/
-    text: Preprint
-  - type: blog
-    link: https://animalecologyinfocus.com/2024/06/12/an-organismal-crystal-ball-during-marine-heatwaves-predicting-death-across-heat-doses/
-  tags:
-  - shellfish
-  - climate change
-  - mechanistic model
-  - extreme events
-  - heatwaves
 - id: doi:10.32942/X25P7Q
   title: 'Lumpfish, Cyclopterus lumpus, distribution in the Gulf of Maine, USA: observations
     from fisheries independent and dependent catch data'
