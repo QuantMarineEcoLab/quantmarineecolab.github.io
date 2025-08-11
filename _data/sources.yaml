@@ -1,6 +1,19 @@
 
 
 
+- id: 10.1121/10.0036887
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Brosseau_etal_JASA.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_Fradet_etal_JASA.pdf
+  tags:
+    - monitoring
+    - acoustics
+
+
+
+
+
 - id: doi:10.32942/X2Z056
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:

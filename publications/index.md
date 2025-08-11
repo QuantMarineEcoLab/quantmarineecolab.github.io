@@ -7,17 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Please reach out if you have any questions on our work below.
+Please reach out if you have any questions about our work below.
 
 {% include section.html %}
 
-## Highlighted
 
-{% include citation.html lookup="Extreme events socio-ecological" style="rich" %}
-
-{% include section.html %}
-
-## All
 
 {% include search-box.html %}
 
