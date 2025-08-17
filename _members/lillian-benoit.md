@@ -2,7 +2,7 @@
 name: Lillian Benoit
 image: images/headshots/lillian-benoit.JPG
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Apprentice 
 aliases: 
   - L. Benoit

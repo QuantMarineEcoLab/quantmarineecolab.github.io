@@ -2,7 +2,7 @@
 name: Sophia Kuzminski
 image: images/headshots/sophia-kuzminski.jpg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Researcher
 aliases: 
   - S. Kuzminski 

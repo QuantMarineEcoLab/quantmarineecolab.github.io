@@ -2,7 +2,7 @@
 name: Tianyi Duan
 image: images/headshots/tianyi-duan.png
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Apprentice 
 aliases: 
   - T. Duan
