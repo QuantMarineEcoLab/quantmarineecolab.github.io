@@ -1,6 +1,7 @@
 
 
 
+
 - id: doi:10.1126/science.zk8odtv 
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
   buttons:
@@ -8,6 +9,17 @@
       link: pdfs/2025_White_Science.pdf
   tags:
     - academia
+
+- id: 10.1121/10.0036887
+  image: https://quantmarineecolab.github.io/images/journal_covers/2024_Brosseau_etal_JASA.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_Fradet_etal_JASA.pdf
+  tags:
+    - monitoring
+    - acoustics
+
+
 
 
 
@@ -21,6 +33,7 @@
     - heatwaves
     - Madagascar
     - fisheries
+
 
 
 
