@@ -1,6 +1,30 @@
 
 
 
+- id: doi:10.1126/science.zk8odtv 
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_White_Science.pdf
+  tags:
+    - academia
+
+
+
+
+- id: doi:10.32942/X2CW68
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_Villeneuve_etal_EcoEvoRxiv.pdf
+  tags:
+    - heatwaves
+    - Madagascar
+    - fisheries
+
+
+
+
 - id: doi:10.32942/X2Z056
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
