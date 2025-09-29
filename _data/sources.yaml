@@ -1,6 +1,19 @@
 
 
 
+- id: doi:10.1093/mcfafs/vtaf033
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_Silverio_etal_MarineCoastalFisheries.jpeg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_Silverio_etal_MarineCoastalFisheries.pdf
+  tags:
+    - fisheries
+    - extreme events
+
+
+
+
+
 
 - id: doi:10.1126/science.zk8odtv 
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
