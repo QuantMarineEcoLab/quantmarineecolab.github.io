@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Please reach out if you have any questions about our work below.
+Please reach out if you have any questions about our work below. You can also find our publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=N7onVOEAAAAJ).
 
 {% include section.html %}
 

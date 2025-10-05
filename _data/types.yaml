@@ -160,6 +160,11 @@ paper:
   text: Paper
   tooltip: Paper
 
+pdf:
+  icon: fa-solid fa-scroll
+  text: pdf
+  tooltip: pdf
+
 book:
   icon: fa-solid fa-book
   text: Book
