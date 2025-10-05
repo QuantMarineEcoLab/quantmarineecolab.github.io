@@ -1,10 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/mcfafs/vtaf033
+  title: Assessing the resistance and resilience of recreationally important fish
+    species to extreme events in coastal Texas
+  authors:
+  - Ana C Silverio
+  - Mariah C Livernois
+  - Dakus Geeslin
+  - Easton R White
+  publisher: Marine and Coastal Fisheries
+  date: '2025-09-01'
+  link: https://doi.org/g95wdd
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_Silverio_etal_MarineCoastalFisheries.jpeg
+  buttons:
+  - type: pdf
+    link: pdfs/2025_Silverio_etal_MarineCoastalFisheries.pdf
+  tags:
+  - fisheries
+  - extreme events
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/science.zk8odtv
   title: "How I confronted my growing cynicism about academia\u2014and rekindled my\
     \ sense of purpose"
   authors: []
-  publisher: AAAS Articles DO Group
+  publisher: Science
   date: '2025-09-25'
   link: https://doi.org/g945xf
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
@@ -42,7 +62,7 @@
   - "Merrill Baker-M\xE9dard"
   - Bemahafaly Randriamanantsoa
   - Easton White
-  publisher: California Digital Library (CDL)
+  publisher: EcoEvoRxiv
   date: '2025-09-10'
   link: https://doi.org/g945xg
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
@@ -63,7 +83,7 @@
   - Kalle Matso
   - Christopher Whitney
   - Easton White
-  publisher: California Digital Library (CDL)
+  publisher: EcoEvoRxiv
   date: '2025-05-23'
   link: https://doi.org/g9k5d8
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
