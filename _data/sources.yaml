@@ -16,6 +16,7 @@
 
 
 - id: doi:10.1126/science.zk8odtv 
+  publisher: Science
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
   buttons:
     - type: pdf
@@ -38,6 +39,7 @@
 
 
 - id: doi:10.32942/X2CW68
+  publisher: EcoEvoRxiv 
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
     - type: pdf
@@ -52,6 +54,7 @@
 
 
 - id: doi:10.32942/X2Z056
+  publisher: EcoEvoRxiv 
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
     - type: pdf
