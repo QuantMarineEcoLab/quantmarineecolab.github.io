@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/science.zk8odtv
+  title: "How I confronted my growing cynicism about academia\u2014and rekindled my\
+    \ sense of purpose"
+  authors: []
+  publisher: AAAS Articles DO Group
+  date: '2025-09-25'
+  link: https://doi.org/g945xf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2025_White_Science.pdf
+  tags:
+  - academia
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1121/10.0036887
   title: Designing a BirdNET classifier for high wind detection in passive acoustic
     recordings to support wildlife monitoring
@@ -20,6 +35,26 @@
   - acoustics
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.32942/X2CW68
+  title: Unequal Thermal Risks in a Socioeconomically Important Tropical Reef Fishery
+  authors:
+  - Andrew Villeneuve
+  - "Merrill Baker-M\xE9dard"
+  - Bemahafaly Randriamanantsoa
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2025-09-10'
+  link: https://doi.org/g945xg
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2025_Villeneuve_etal_EcoEvoRxiv.pdf
+  tags:
+  - heatwaves
+  - Madagascar
+  - fisheries
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.32942/X2Z056
   title: 'Minimum Sampling, Maximum Insight: Tracking Environmental Trends in a Tidal
     Estuary'
@@ -27,8 +62,8 @@
   - Barbara Spiecker
   - Kalle Matso
   - Christopher Whitney
-  - Easton R. White
-  publisher: ''
+  - Easton White
+  publisher: California Digital Library (CDL)
   date: '2025-05-23'
   link: https://doi.org/g9k5d8
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg

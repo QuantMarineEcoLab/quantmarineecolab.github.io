@@ -8,7 +8,7 @@ nav:
 
 
 
-Environmental variability can occur on daily to decadal time scales. This variability can include natural variation, such as changes in seasons, or anthropogenic events like oil spills. Of course, these various forms of environmental variability shape ecosystems, and, consequently, the human communities that depend on them. In addition, climate change is expected to increase variability and uncertainty of these environmental factors. Our research program addresses questions that fall within the Venn diagram above: 
+Environmental variability can occur on daily to decadal time scales. This variability can include natural variation, such as changes in seasons, or anthropogenic events like oil spills. Of course, these various forms of environmental variability shape ecosystems, and, consequently, the human communities that depend on them. In addition, climate change is expected to increase variability and uncertainty of these environmental factors. Our research program addresses questions that fall at the intersection of environmental monitoring, extreme events, and science eduation: 
 
 1. How does environmental variability, particularly rare events like heatwaves or algal blooms, affect the ecology and population dynamics of various species?
 
