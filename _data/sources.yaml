@@ -1,5 +1,17 @@
 
 
+- id: doi:10.1101/2025.07.11.664295 
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_Dyson_etal_bioRxiv.pdf
+  tags:
+    - coral reefs
+    - extreme events
+
+
+
+
 
 - id: doi:10.1093/mcfafs/vtaf033
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_Silverio_etal_MarineCoastalFisheries.jpeg
