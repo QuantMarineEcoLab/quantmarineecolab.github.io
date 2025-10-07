@@ -29,6 +29,7 @@
 
 - id: doi:10.1126/science.zk8odtv 
   publisher: Science
+  author: Easton R. White
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_Science.jpg
   buttons:
     - type: pdf
