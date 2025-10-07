@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.07.11.664295
+  title: Habitat suitability modeling growth and cover trends of staghorn coral (<i>Acropora
+    cervicornis</i>) outplants in the lower Florida Keys
+  authors:
+  - Glenna Dyson
+  - Erich Bartels
+  - Easton R. White
+  - Ian R. Combs
+  - Kristen Mello-Rafter
+  - Thomas C. Lippmann
+  - Jennifer A. Dijkstra
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-15'
+  link: https://doi.org/g95xm3
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2025_Dyson_etal_bioRxiv.pdf
+  tags:
+  - coral reefs
+  - extreme events
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/mcfafs/vtaf033
   title: Assessing the resistance and resilience of recreationally important fish
     species to extreme events in coastal Texas
