@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/fee.70013
+  title: Measuring what matters in the era of big data
+  authors:
+  - Easton R White
+  publisher: Frontiers in Ecology and the Environment
+  date: '2025-11-01'
+  link: https://doi.org/g99sz7
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_FrontiersEcoEnviron.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2025_White_FrontiersEcoEnviron.pdf
+  tags:
+  - monitoring
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.07.11.664295
   title: Habitat suitability modeling growth and cover trends of staghorn coral (<i>Acropora
     cervicornis</i>) outplants in the lower Florida Keys
