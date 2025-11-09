@@ -1,5 +1,17 @@
 
 
+
+- id: doi:10.1002/fee.70013
+  image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_FrontiersEcoEnviron.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2025_White_FrontiersEcoEnviron.pdf
+  tags:
+    - monitoring
+
+
+
+
 - id: doi:10.1101/2025.07.11.664295 
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
