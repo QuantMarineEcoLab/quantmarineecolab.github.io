@@ -1,6 +1,20 @@
 
 
 
+- id: doi:10.1016/j.marpol.2025.106968
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
+  buttons:
+    - type: pdf
+      link: pdfs/2026_White_etal_MarPol.pdf
+  tags:
+    - fisheries
+    - sharks and rays
+    - marine protected area
+    
+
+
+
+
 - id: doi:10.1002/fee.70013
   image: https://quantmarineecolab.github.io/images/journal_covers/2025_White_FrontiersEcoEnviron.jpg
   buttons:
