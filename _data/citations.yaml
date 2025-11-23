@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.marpol.2025.106968
+  title: Industrial fishing compliance with a new marine corridor near the Galapagos
+    Islands
+  authors:
+  - Easton R. White
+  - Alex Hearn
+  - Nicolas Moity
+  - "Jorge Ram\xEDrez-Gonz\xE1lez"
+  - Julia Saltzman
+  - "C\xE9sar Viteri-Mej\xEDa"
+  - Sarah Enright
+  - "Mar\xEDa Jos\xE9 Barrag\xE1n-Paladines"
+  publisher: Marine Policy
+  date: '2026-03-01'
+  link: https://doi.org/hbb7mm
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
+  buttons:
+  - type: pdf
+    link: pdfs/2026_White_etal_MarPol.pdf
+  tags:
+  - fisheries
+  - sharks and rays
+  - marine protected area
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/fee.70013
   title: Measuring what matters in the era of big data
   authors:
