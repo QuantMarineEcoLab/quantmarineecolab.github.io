@@ -1,5 +1,17 @@
 
 
+- id: doi:10.3389/fmars.2025.1684707
+  image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteBahlai_FronEcoEvo.png
+  buttons:
+    - type: pdf
+      link: pdfs/2026_FortunatoJackson_etal_Frontiers.pdf
+  tags:
+    - fisheries
+    - Madagascar
+    - socio-ecological
+
+
+
 
 - id: doi:10.1016/j.marpol.2025.106968
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
@@ -291,30 +303,9 @@
 
 
 
-- id: doi:10.32942/X2CC97
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  buttons:
-    - type: pdf
-      link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
-  tags:
-    - ecological networks
-    - monitoring
 
 
 
-
-
-
-
-- id: doi:10.32942/X2J60N
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  buttons:
-    - type: pdf
-      link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
-  tags:
-    - sharks and rays
-    - fisheries
-    - seafood
 
 
 
