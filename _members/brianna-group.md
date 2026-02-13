@@ -1,6 +1,6 @@
 ---
 name: Brianna Group 
-image: images/headshots/brianna-group..png
+image: images/headshots/brianna-group.png
 role: researcher
 group: current
 description: Affiliate
