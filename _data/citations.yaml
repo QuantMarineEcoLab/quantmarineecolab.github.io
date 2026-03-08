@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.01.23.701401
+  title: "Ontogeny of vocalizations in Adlie penguin (\n                  <i>Pygoscelis\
+    \ adeliae</i>\n                  ) chicks"
+  authors:
+  - Michele L. Adams
+  - Danielle T. Fradet
+  - Megan A. Cimino
+  - Easton R. White
+  - Laura N. Kloepper
+  publisher: openRxiv
+  date: '2026-01-25'
+  link: https://doi.org/hbrs5t
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_Adams_etal_bioRxiv.pdf
+  tags:
+  - acoustics
+  - seabirds
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.32942/X2MT0G
+  title: 'The role of barrier zones in controlling invasive species: A microcosm experiment'
+  authors:
+  - Easton White
+  - Alan Hastings
+  publisher: California Digital Library (CDL)
+  date: '2026-01-16'
+  link: https://doi.org/hbrs5v
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_WhiteHastings_EcoEvoRxiv.pdf
+  tags:
+  - Tribolium
+  - mathematical model
+  - invasive species
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fmars.2025.1684707
   title: "Regional and gendered patterns in Madagascar\u2019s small-scale fisheries"
   authors:
