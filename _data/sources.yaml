@@ -1,4 +1,27 @@
 
+- id: doi:10.64898/2026.01.23.701401
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2026_Adams_etal_bioRxiv.pdf
+  tags:
+    - acoustics
+    - seabirds
+
+
+
+- id: doi:10.32942/X2MT0G
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2026_WhiteHastings_EcoEvoRxiv.pdf
+  tags:
+    - Tribolium
+    - mathematical model
+    - invasive species
+
+
+
 
 - id: doi:10.3389/fmars.2025.1684707
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_WhiteBahlai_FronEcoEvo.png
