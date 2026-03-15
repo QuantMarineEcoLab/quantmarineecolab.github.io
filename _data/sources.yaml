@@ -1,4 +1,18 @@
 
+
+- id: doi:10.3354/meps15053
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
+  buttons:
+    - type: pdf
+      link: pdfs/2026_GomezGarcia_etal_MEPS.pdf
+  tags:
+    - sharks and rays
+    - marine protected areas
+    - fisheries
+
+
+
+
 - id: doi:10.64898/2026.01.23.701401
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
