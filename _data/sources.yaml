@@ -1,5 +1,18 @@
 
 
+- id: doi:10.32942/X2BQ1B
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2026_GomezGarcia_etal_ecoevorxiv.pdf
+  tags:
+    - sharks and rays
+    - marine protected area
+    - mathematical model
+
+
+
+
 - id: doi:10.3354/meps15053
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
   buttons:
