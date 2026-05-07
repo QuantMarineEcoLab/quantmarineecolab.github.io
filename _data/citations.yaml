@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.32942/X2BQ1B
+  title: Virtual Population Analysis of the critically endangered Scalloped Hammerhead
+    (Sphyrna lewini) in the Eastern Tropical Pacific.
+  authors:
+  - Miguel Gomez Garcia
+  - Alex Hearn
+  - Mario Espinoza
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2026-04-28'
+  link: https://doi.org/hb2ttf
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_GomezGarcia_etal_ecoevorxiv.pdf
+  tags:
+  - sharks and rays
+  - marine protected area
+  - mathematical model
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3354/meps15053
   title: Species associations and community structure in an oceanic elasmobranch assemblage
   authors:
