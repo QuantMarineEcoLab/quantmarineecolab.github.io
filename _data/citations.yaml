@@ -1,24 +1,67 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.32942/X2BQ1B
-  title: Virtual Population Analysis of the critically endangered Scalloped Hammerhead
-    (Sphyrna lewini) in the Eastern Tropical Pacific.
+- id: doi:10.64898/2026.05.27.728265
+  title: Soundscape reflects breeding phenology in colonial seabirds
   authors:
-  - Miguel Gomez Garcia
-  - Alex Hearn
-  - Mario Espinoza
-  - Easton White
-  publisher: California Digital Library (CDL)
-  date: '2026-04-28'
-  link: https://doi.org/hb2ttf
+  - Valerie M. Eddington
+  - Danielle T. Fradet
+  - Elizabeth C. Craig
+  - Megan A. Cimino
+  - Easton R. White
+  - Laura N. Kloepper
+  publisher: openRxiv
+  date: '2026-05-30'
+  link: https://doi.org/hb7jrc
   image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   buttons:
   - type: pdf
-    link: pdfs/2026_GomezGarcia_etal_ecoevorxiv.pdf
+    link: pdfs/2026_Eddington_etal_ecoevorxiv.pdf
   tags:
-  - sharks and rays
-  - marine protected area
-  - mathematical model
+  - seabirds
+  - acoustics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.32942/X25H3G
+  title: The effectiveness of overwintering Eastern oysters (Crassostrea virginica)
+    in cold-dry storage
+  authors:
+  - Jannine Chamorro
+  - Josephine DeMerit
+  - Andrew Villeneuve
+  - Selina Cheng
+  - Kaila Frazer
+  - Joseph Rankin
+  - Brittany Jellison
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2026-05-27'
+  link: https://doi.org/hb7jrd
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_Chamorro_etal_ecoevorxiv.pdf
+  tags:
+  - oysters
+  - extreme events
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.32942/X2CW9D
+  title: Intertidal Exposure Modulates Time-Integrated Heat Tolerance of the Eastern
+    Oyster Crassostrea virginica
+  authors:
+  - Andrew Villeneuve
+  - Brittany Jellison
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2026-06-08'
+  link: https://doi.org/hb7jrf
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_Villeneuve_etal_ecoevorxiv.pdf
+  tags:
+  - oysters
+  - extreme events
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3354/meps15053
