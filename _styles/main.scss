@@ -6,3 +6,24 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.funding-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 2rem 0;
+}
+
+.funding-logos a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.funding-logos img {
+  height: 80px;
+  width: auto;
+  object-fit: contain;
+}
