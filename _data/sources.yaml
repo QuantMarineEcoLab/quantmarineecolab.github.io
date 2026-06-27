@@ -1,4 +1,30 @@
 
+- id: url: https://woa.un.org/third-world-ocean-assessment/socioecological-systems/one-health/chapter-7-pandemics-including-impacts
+  publisher: United Nations
+  title: Section 5, Subsection 5b, Chapter 7: Pandemics, including impacts of the coronavirus disease (COVID-19) pandemic
+  authors: 
+    - Easton R. White
+    - Nsikak Benson
+    - Priyal Bunwaree
+    - Ian Butler
+    - Victoria Erasmus
+    - Amelie Laute 
+    - Candace May
+    - Carmen Mifsud
+    - Sindhura Polepalli
+    - Thauan Santos
+    - Sebastian Villasante
+  date: 2026-06-08
+  link: https://woa.un.org/third-world-ocean-assessment/socioecological-systems/one-health/chapter-7-pandemics-including-impacts
+  image: https://quantmarineecolab.github.io/images/journal_covers/2026_White_etal_WOA.png
+  buttons:
+    - type: pdf
+      link: pdfs/2026_White_etal_WOA.pdf
+  tags:
+    - COVID-19
+    - extreme events
+
+
 
 
 - id: doi:10.64898/2026.05.27.728265 
