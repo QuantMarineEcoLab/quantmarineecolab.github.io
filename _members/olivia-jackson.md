@@ -2,7 +2,7 @@
 name: Olivia Fortunato-Jackson
 image: images/headshots/olivia-jackson.jpg
 role: researcher
-group: current
+group: alumni
 description: Research Associate
 aliases:
   - O. Jackson

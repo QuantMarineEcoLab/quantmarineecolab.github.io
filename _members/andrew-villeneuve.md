@@ -3,7 +3,7 @@ name: Andrew (Drew) Villeneuve
 image: images/headshots/andrew-villeneuve.jpg
 description: PhD Candidate
 role: grad
-group: current
+group: alumni
 aliases:
   - Andrew (Drew) Villeneuve
   - Andrew Villeneuve
