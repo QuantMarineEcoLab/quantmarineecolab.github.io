@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.crsus.2026.100825
+  title: Asymmetric thermal risks across Malagasy macrotidal reef zones threaten socioeconomic
+    outcomes for local fisheries
+  authors:
+  - Andrew R. Villeneuve
+  - "Merrill Baker-M\xE9dard"
+  - Bemahafaly Randriamanantsoa
+  - Olivia Fortunato-Jackson
+  - Easton R. White
+  publisher: Cell Reports Sustainability
+  date: '2026-09-01'
+  link: https://doi.org/hcjr53
+  image: https://quantmarineecolab.github.io/images/journal_covers/2026_Villeneuve_etal_CellSustainability.jpg
+  buttons:
+  - type: pdf
+    link: pdfs/2026_Villeneuve_etal_CellSustainability.pdf
+  - type: source
+    link: https://doi.org/10.5281/zenodo.21709893
+    text: Code
+  - type: preprint
+    link: https://doi.org/10.32942/X2CW68
+    text: Preprint
+  tags:
+  - heatwaves
+  - Madagascar
+  - fisheries
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.64898/2026.05.27.728265
   title: Soundscape reflects breeding phenology in colonial seabirds
   authors:
@@ -261,26 +289,6 @@
   tags:
   - monitoring
   - acoustics
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.32942/X2CW68
-  title: Unequal Thermal Risks in a Socioeconomically Important Tropical Reef Fishery
-  authors:
-  - Andrew Villeneuve
-  - "Merrill Baker-M\xE9dard"
-  - Bemahafaly Randriamanantsoa
-  - Easton White
-  publisher: EcoEvoRxiv
-  date: '2025-09-10'
-  link: https://doi.org/g945xg
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  buttons:
-  - type: pdf
-    link: pdfs/2025_Villeneuve_etal_EcoEvoRxiv.pdf
-  tags:
-  - heatwaves
-  - Madagascar
-  - fisheries
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.32942/X2Z056
