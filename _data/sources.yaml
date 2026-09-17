@@ -1,4 +1,23 @@
 
+- id: doi:10.1016/j.crsus.2026.100825
+  image: https://quantmarineecolab.github.io/images/journal_covers/2026_Villeneuve_etal_CellSustainability.jpg
+  buttons:
+    - type: pdf
+      link: pdfs/2026_Villeneuve_etal_CellSustainability.pdf
+    - type: source
+      link: https://doi.org/10.5281/zenodo.21709893
+      text: Code
+    - type: preprint
+      link: https://doi.org/10.32942/X2CW68
+      text: Preprint
+  tags:
+    - heatwaves
+    - Madagascar
+    - fisheries
+
+
+
+
 
 
 - id: doi:10.64898/2026.05.27.728265 
@@ -165,16 +184,7 @@
 
 
 
-- id: doi:10.32942/X2CW68
-  publisher: EcoEvoRxiv 
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  buttons:
-    - type: pdf
-      link: pdfs/2025_Villeneuve_etal_EcoEvoRxiv.pdf
-  tags:
-    - heatwaves
-    - Madagascar
-    - fisheries
+
 
 
 
