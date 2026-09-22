@@ -77,4 +77,10 @@ Our work is made possible by funding from several organizations.
   <a href="https://www.usda.gov/" target="_blank">
     <img src="/images/logos/USDA_logo.png" alt="USDA">
   </a>
+
+  <a href="https://marine.unh.edu/" target="_blank">
+    <img src="/images/logos/UNH_SMSOE_RGB_CS_B.png" alt="USDA">
+  </a>
+
+  
 </div>
