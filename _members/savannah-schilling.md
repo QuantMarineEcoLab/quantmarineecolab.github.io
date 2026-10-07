@@ -1,6 +1,6 @@
 ---
 name: Savannah Schilling 
-image: images/headshosts/savannah-schilling.jpeg
+image: images/headshots/savannah-schilling.jpeg
 role: grad
 group: current
 description: Graduate student
